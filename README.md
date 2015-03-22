@@ -1,7 +1,7 @@
 data-mcdonalds
 ==============
 
-Data set describing McDonald's Nutrition Facts. Updated June 2014.
+Data set describing McDonald's Nutrition Facts. Updated March 2015.
 
 ## PROJECT SCOPE
 
@@ -10,34 +10,41 @@ Data set describing McDonald's Nutrition Facts. Updated June 2014.
 
 ## DATA FORMATS
 
+### VERSION 2
+
 + [Textfiles](https://github.com/pffy/data-mcdonalds/tree/master/textfiles)
-    + Most compatible format.
-    + TSV: tab-separated value files.
-    + Nicely-formatted on GitHub. You can even search within the file on GitHub.
-+ [JSON](https://github.com/pffy/data-mcdonalds/tree/master/json)
-    + Stable, serialized data transport.
-    + JSON: [JavaScript Object Notation](http://www.json.org/).
-    + Very portable and processed by most modern languages.
+  + Most compatible format.
+  + TSV: tab-separated value files.
+  + Nicely-formatted on GitHub. You can even search within the file on GitHub.
 + [Spreadsheet Workbooks](https://github.com/pffy/data-mcdonalds/tree/master/workbooks)
-    + You can import XLSX or ODS spreadsheets into [Google Drive Sheets](http://www.google.com/sheets/about/index.html).
-    + You can also import the spreadsheets into [Zoho Docs Spreadsheets](https://www.zoho.com/docs/online-spreadsheet.html)
-    + Open XLSX in [Microsoft Excel](http://office.microsoft.com/en-us/excel/).
-    + Open ODS in [LibreOffice](http://www.libreoffice.org/).
+  + You can import XLSX or ODS spreadsheets into [Google Drive Sheets](http://www.google.com/sheets/about/index.html).
+  + You can also import the spreadsheets into [Zoho Docs Spreadsheets](https://www.zoho.com/docs/online-spreadsheet.html)
+  + Open XLSX in [Microsoft Excel](http://office.microsoft.com/en-us/excel/).
+  + Open ODS in [LibreOffice](http://www.libreoffice.org/).
 + [SQLite Database](https://github.com/pffy/data-mcdonalds/tree/master/sql)
-    + Flexible, self-containted, serverless, zero-config, transactional [SQL database engine](http://www.sqlite.org/).
+  + Flexible, self-containted, serverless, zero-config, transactional [SQL database engine](http://www.sqlite.org/).
+
+### VERSION 1
+
++ [JSON](https://github.com/pffy/data-mcdonalds/tree/master/json)
+  + Stable, serialized data transport.
+  + JSON: [JavaScript Object Notation](http://www.json.org/).
+  + Very portable and processed by most modern languages.
+
+### POSSIBLE FORMATS
+
 + SQL Server 2008
-    + ***Suggested. Not Planned.***
+  + ***Not Planned.***
 + MariaDB
-    + ***Suggested. Planned.***
+  + ***Not Planned.***
 + Android XML
-    + [String Resources](http://developer.android.com/guide/topics/resources/string-resource.html)
-    + ***Planned***
+  + ***Not Planned.***
 + Oracle 11g
-    + ***Suggested. Not Planned.***
+  + ***Not Planned.***
 + Oracle 12c
-    + ***Suggested. Not Planned.***
+  + ***Not Planned.***
 + Oracle Database In-Memory
-    + ***Suggested. Not Planned.***
+  + ***Not Planned.***
 
 
 ## MCDONALDS MENU STRUCTURE
@@ -49,7 +56,7 @@ Data set describing McDonald's Nutrition Facts. Updated June 2014.
   items for breakfast, lunch and dinner. **Many locations are open 24 hours.**
 
 
-#### MCDONALDS USA
+#### MCDONALDS USA CATEGORIES
 
 The popular menu items at McDonald's USA are divided into 9 simple categories:
 
@@ -63,11 +70,23 @@ The popular menu items at McDonald's USA are divided into 9 simple categories:
   + Dessert/Shakes
   + Condiments
 
+```
+  BURGERSANDWICH
+  CHICKENFISH
+  BREAKFAST
+  SALAD
+  SNACKSIDE
+  BEVERAGE
+  MCCAFE
+  DESSERTSHAKE
+  CONDIMENT
+```
+
 Some menu items are in more than one category.
 
 ## REFERENCE
 
-+ [McDonald's USA Nutrition Facts for Popular Menu Items](http://nutrition.mcdonalds.com/getnutrition/nutritionfacts.pdf) (06-11-2014)
++ [McDonald's USA Nutrition Facts for Popular Menu Items](http://nutrition.mcdonalds.com/getnutrition/nutritionfacts.pdf) (updated 03-18-2015)
 
 ## DISCLAIMER
 
