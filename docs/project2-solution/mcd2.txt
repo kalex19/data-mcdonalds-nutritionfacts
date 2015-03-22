@@ -377,7 +377,7 @@ Nonfat White Hot Chocolate (Large) 20.8 oz (590 g) 380 25 3 5 2 10 0 20 7 280 12
 McCafé White Hot Chocolate (Small) 13.3 oz (376 g) 350 120 13 20 8 38 0 40 14 180 8 48 16 0 0 46 12 10 0 40 0
 McCafé White Hot Chocolate (Medium) 16.3 oz (463 g) 420 140 15 24 9 45 0.5 50 17 230 9 59 20 0 0 57 14 15 0 50 0
 McCafé White Hot Chocolate (Large) 20.8 oz (589 g) 520 170 19 29 11 56 0.5 60 21 290 12 71 24 0 0 69 18 20 0 60 0
-Desserts & Shakes Baked Hot Apple Pie 2.7 oz (77 g) 250 110 13 20 7 35 0 0 0 170 7 32 11 4 16 13 2 4 25 2 6
+Baked Hot Apple Pie 2.7 oz (77 g) 250 110 13 20 7 35 0 0 0 170 7 32 11 4 16 13 2 4 25 2 6
 Chocolate Chip Cookie 1 cookie (33 g) 160 70 8 12 3.5 18 0 10 3 90 4 21 7 1 4 15 2 2 0 1 8
 Oatmeal Raisin Cookie 1 cookie (33 g) 150 50 6 9 2.5 13 0 10 3 135 6 22 7 1 4 13 2 2 0 2 6
 Fruit 'n Yogurt Parfait 5.2 oz (149 g) 150 20 2 3 1 5 0 5 2 80 3 30 10 1 3 23 4 2 15 10 4
