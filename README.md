@@ -13,6 +13,7 @@ Data set describing McDonald's Nutrition Facts. Updated March 2015.
 ### VERSION 2
 
 + Data from March 2015.
++ 433 menu items. (10% increase since June 2014)
 + [Textfiles](https://github.com/pffy/data-mcdonalds/tree/master/textfiles)
   + Most compatible format.
   + TSV: tab-separated value files.
@@ -27,7 +28,9 @@ Data set describing McDonald's Nutrition Facts. Updated March 2015.
 
 ### VERSION 1
 
+
 + Data from June 2014.
++ 393 menu items.
 + [JSON](https://github.com/pffy/data-mcdonalds/tree/master/json)
   + Stable, serialized data transport.
   + JSON: [JavaScript Object Notation](http://www.json.org/).
