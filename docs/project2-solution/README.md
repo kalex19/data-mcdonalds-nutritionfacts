@@ -11,5 +11,10 @@
 + Transform the rows into a TSV format file
   + `> php mcd3.php`
   + Expected infile is `mcd2.txt`, outfile is `mcd.tsv
+  
+### FLOWCHARTS
 
-+ See [FLOWCHARTS](https://raw.githubusercontent.com/pffy/data-mcdonalds/master/docs/project2-solution/flowcharts/)
+![flow charts for mcdonalds ETL](https://raw.githubusercontent.com/pffy/data-mcdonalds/master/docs/project2-solution/flowcharts/flowchart-pffy-data-mcdonalds-ETL.png "mcdonalds ETL flowcharts")
+
+
++ See [FLOWCHARTS](https://github.com/pffy/data-mcdonalds/tree/master/docs/project2-solution/flowcharts)
