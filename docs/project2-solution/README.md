@@ -10,8 +10,8 @@
   + Expected infile is `mcd1.txt`, outfile is `mcd2.txt`
 + Transform the rows into a TSV format file
   + `> php mcd3.php`
-  + Expected infile is `mcd2.txt`, outfile is `mcd.tsv
-  
+  + Expected infile is `mcd2.txt`, outfile is `mcd.tsv`
+
 ### FLOWCHARTS
 
 ![flow charts for mcdonalds ETL](https://raw.githubusercontent.com/pffy/data-mcdonalds/master/docs/project2-solution/flowcharts/flowchart-pffy-data-mcdonalds-ETL.png "mcdonalds ETL flowcharts")
