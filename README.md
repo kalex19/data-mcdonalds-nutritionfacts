@@ -10,6 +10,21 @@ Data set describing McDonald's Nutrition Facts. Updated March 2015.
 
 ## DATA FORMATS
 
+### VERSION 3
+
++ Data from May 2015.
++ 412 menu items. (5% decrease since March 2015)
++ [Textfiles](https://github.com/pffy/data-mcdonalds/tree/master/textfiles)
+  + Most compatible format.
+  + TSV: tab-separated value files.
+  + Nicely-formatted on GitHub. You can even search within the file on GitHub.
++ [Spreadsheet Workbooks](https://github.com/pffy/data-mcdonalds/tree/master/workbooks)
+  + You can import XLSX or ODS spreadsheets into [Google Drive Sheets](http://www.google.com/sheets/about/index.html).
+  + You can also import the spreadsheets into [Zoho Docs Spreadsheets](https://www.zoho.com/docs/online-spreadsheet.html)
+  + Open XLSX in [Microsoft Excel](http://office.microsoft.com/en-us/excel/).
+  + Open ODS in [LibreOffice](http://www.libreoffice.org/).
+
+
 ### VERSION 2
 
 + Data from March 2015.
