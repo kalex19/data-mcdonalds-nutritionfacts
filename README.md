@@ -1,7 +1,7 @@
 data-mcdonalds
 ==============
 
-Data set describing McDonald's Nutrition Facts. Updated March 2015.
+Data set describing McDonald's Nutrition Facts. Updated May 2015.
 
 ## PROJECT SCOPE
 
