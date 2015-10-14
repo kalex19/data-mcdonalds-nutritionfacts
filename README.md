@@ -1,7 +1,7 @@
-data-mcdonalds
-==============
+# McDonalds Nutrition Facts
 
-Data set describing McDonald's Nutrition Facts. Updated May 2015.
+  + Free, libre and open source data set describing McDonald's Nutrition Facts.
+  + October 2015 Refresh.
 
 ## PROJECT SCOPE
 
@@ -10,25 +10,28 @@ Data set describing McDonald's Nutrition Facts. Updated May 2015.
 
 ## DATA FORMATS
 
+### VERSION 21
+
+  + Data from October 2015.
+  + 469 menu items processed.
+  + No ETL solution available for this release.
+  + No item categories for this release.
+  + [Textfiles](https://github.com/pffy/data-mcdonalds/tree/master/textfiles)
+  + [Spreadsheet Workbooks](https://github.com/pffy/data-mcdonalds/tree/master/workbooks)
+
 ### VERSION 3
 
 + Data from May 2015.
-+ 412 menu items. (5% decrease since March 2015)
++ 412 menu items processed.
 + [Textfiles](https://github.com/pffy/data-mcdonalds/tree/master/textfiles)
-  + Most compatible format.
-  + TSV: tab-separated value files.
-  + Nicely-formatted on GitHub. You can even search within the file on GitHub.
 + [Spreadsheet Workbooks](https://github.com/pffy/data-mcdonalds/tree/master/workbooks)
-  + You can import XLSX or ODS spreadsheets into [Google Drive Sheets](http://www.google.com/sheets/about/index.html).
-  + You can also import the spreadsheets into [Zoho Docs Spreadsheets](https://www.zoho.com/docs/online-spreadsheet.html)
-  + Open XLSX in [Microsoft Excel](http://office.microsoft.com/en-us/excel/).
-  + Open ODS in [LibreOffice](http://www.libreoffice.org/).
++ [View ETL Solution](https://github.com/pffy/data-mcdonalds/tree/master/docs).
 
 
 ### VERSION 2
 
 + Data from March 2015.
-+ 433 menu items. (10% increase since June 2014)
++ 433 menu items processed.
 + [Textfiles](https://github.com/pffy/data-mcdonalds/tree/master/textfiles)
   + Most compatible format.
   + TSV: tab-separated value files.
@@ -40,16 +43,18 @@ Data set describing McDonald's Nutrition Facts. Updated May 2015.
   + Open ODS in [LibreOffice](http://www.libreoffice.org/).
 + [SQLite Database](https://github.com/pffy/data-mcdonalds/tree/master/sql)
   + Flexible, self-containted, serverless, zero-config, transactional [SQL database engine](http://www.sqlite.org/).
++ [View ETL Solution](https://github.com/pffy/data-mcdonalds/tree/master/docs).
 
 ### VERSION 1
 
 
 + Data from June 2014.
-+ 393 menu items.
++ 393 menu items processed.
 + [JSON](https://github.com/pffy/data-mcdonalds/tree/master/json)
   + Stable, serialized data transport.
   + JSON: [JavaScript Object Notation](http://www.json.org/).
   + Very portable and processed by most modern languages.
++ [View ETL Solution](https://github.com/pffy/data-mcdonalds/tree/master/docs).
 
 ### POSSIBLE FORMATS
 
