@@ -1,6 +1,7 @@
 # McDonalds Nutrition Facts
 
   + Free, libre and open source data set describing McDonald's Nutrition Facts.
+  + Use the [latest stable release][gh_stable] for research.
   + November 2015 Refresh.
 
 ## PROJECT SCOPE
@@ -120,9 +121,11 @@ Some menu items are in more than one category.
 
 ## REFERENCE
 
-+ [McDonald's USA Nutrition Facts for Popular Menu Items](http://nutrition.mcdonalds.com/getnutrition/nutritionfacts.pdf)
++ [McDonald's USA Nutrition Facts for Popular Menu Items][web_mcdpdf]
 
 ## DISCLAIMER
 
 **This project is neither endorsed by nor affliated with any McDonald's®,  McDonald's® stores, McDonald's Corporation, McDonald's franchisees or any other affliated brands or entities. Nutrition information is subject to change without prior notice. Please contact McDonald's® for the latest information.**
 
+[gh_stable]: https://github.com/pffy/data-mcdonalds-nutrition-facts/releases/latest
+[web_mcdpdf]: http://nutrition.mcdonalds.com/getnutrition/nutritionfacts.pdf
