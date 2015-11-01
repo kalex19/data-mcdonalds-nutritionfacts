@@ -17,17 +17,19 @@
   + November 2015 Refresh.
   + Source data from October 29, 2015.
   + New Menu Category Structure
-    + Burgers & Sandwiches
-    + Chicken & Fish
-    + Breakfast
-    + Salads
-    + Snacks and Sides
-    + Beverages
-    + McCafe
-    + Dessert & Shakes
-    + Condiments
-    + All Day Breakfast
-  
+
+|  **CATEGORY** | **CODE** |
+|  ------ | ------ |
+|  Burgers & Sandwiches | `  BURGERSANDWICH` |
+|  Chicken & Fish | `  CHICKENFISH` |
+|  Breakfast | `  BREAKFAST` |
+|  Salads | `  SALAD` |
+|  Snacks and Sides | `  SNACKSIDE` |
+|  Beverages | `  BEVERAGE` |
+|  McCafe | `  MCCAFE` |
+|  Dessert & Shakes | `  DESSERTSHAKE` |
+|  Condiments | `  CONDIMENT` |
+|  All Day Breakfast | `  ALLDAYBREAKFAST` |
 
 ### VERSION 22 (pre-release)
 
