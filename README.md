@@ -15,6 +15,7 @@
 
   + Data from October 29, 2015.
   + 412 menu items processed (pre-release results).
+  + Partial ETL solution available for this release.
   + No item categories for this release.
   + [Textfiles](https://github.com/pffy/data-mcdonalds/tree/master/textfiles)
   + [Spreadsheet Workbooks](https://github.com/pffy/data-mcdonalds/tree/master/workbooks)
