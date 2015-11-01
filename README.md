@@ -12,9 +12,10 @@
 ## DATA FORMATS
 
 
-### VERSION 22 (pre-release)
+### VERSION 23 (in development)
 
-  + Data from October 29, 2015.
+  + Source data from October 29, 2015.
+  
 
 
 ### VERSION 22 (pre-release)
@@ -27,7 +28,7 @@
   
 ### VERSION 21 (pre-release)
 
-  + Source data from [latest stable version][gh_stable].
+  + Source data from October 13, 2015.
   + No ETL solution available for this release.
   + No item categories for this release.
   + [Textfiles](https://github.com/pffy/data-mcdonalds/tree/master/textfiles)
