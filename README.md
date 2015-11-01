@@ -1,7 +1,7 @@
 # McDonalds Nutrition Facts
 
   + Free, libre and open source data set describing McDonald's Nutrition Facts.
-  + October 2015 Refresh.
+  + November 2015 Refresh.
 
 ## PROJECT SCOPE
 
@@ -10,9 +10,17 @@
 
 ## DATA FORMATS
 
+### VERSION 22
+
+  + Data from October 29, 2015.
+  + 412 menu items processed.
+  + No item categories for this release.
+  + [Textfiles](https://github.com/pffy/data-mcdonalds/tree/master/textfiles)
+  + [Spreadsheet Workbooks](https://github.com/pffy/data-mcdonalds/tree/master/workbooks)
+  
 ### VERSION 21
 
-  + Data from October 2015.
+  + Data from October 13, 2015.
   + 469 menu items processed.
   + No ETL solution available for this release.
   + No item categories for this release.
