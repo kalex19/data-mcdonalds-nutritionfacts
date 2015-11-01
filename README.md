@@ -11,10 +11,15 @@
 
 ## DATA FORMATS
 
+
 ### VERSION 22 (pre-release)
 
   + Data from October 29, 2015.
-  + 412 menu items processed (pre-release results).
+
+
+### VERSION 22 (pre-release)
+
+  + Source data from [VERSION 3][gh_stable].
   + Partial ETL solution available for this release.
   + No item categories for this release.
   + [Textfiles](https://github.com/pffy/data-mcdonalds/tree/master/textfiles)
@@ -22,9 +27,7 @@
   
 ### VERSION 21 (pre-release)
 
-  + Data from October 13, 2015.
-  + 468 menu items processed.
-  + 368 menu items processed.
+  + Source data from [VERSION 3][gh_stable].
   + No ETL solution available for this release.
   + No item categories for this release.
   + [Textfiles](https://github.com/pffy/data-mcdonalds/tree/master/textfiles)
