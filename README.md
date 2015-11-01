@@ -12,24 +12,25 @@
 ## DATA FORMATS
 
 
-### VERSION 23 (in development)
+### [VERSION 23][gh_stable] (STABLE)
 
   + November 2015 Refresh.
   + Source data from October 29, 2015.
+  + [View ETL Solution](https://github.com/pffy/data-mcdonalds/tree/master/docs).
   + New Menu Category Structure
 
 |  **CATEGORY** | **CODE** |
 |  ------ | ------ |
-|  Burgers & Sandwiches | `  BURGERSANDWICH` |
-|  Chicken & Fish | `  CHICKENFISH` |
-|  Breakfast | `  BREAKFAST` |
-|  Salads | `  SALAD` |
-|  Snacks and Sides | `  SNACKSIDE` |
-|  Beverages | `  BEVERAGE` |
-|  McCafe | `  MCCAFE` |
-|  Dessert & Shakes | `  DESSERTSHAKE` |
-|  Condiments | `  CONDIMENT` |
-|  All Day Breakfast | `  ALLDAYBREAKFAST` |
+|  Burgers & Sandwiches | `BURGERSANDWICH` |
+|  Chicken & Fish | `CHICKENFISH` |
+|  Breakfast | `BREAKFAST` |
+|  Salads | `SALAD` |
+|  Snacks and Sides | `SNACKSIDE` |
+|  Beverages | `BEVERAGE` |
+|  McCafe | `MCCAFE` |
+|  Dessert & Shakes | `DESSERTSHAKE` |
+|  Condiments | `CONDIMENT` |
+|  All Day Breakfast | `ALLDAYBREAKFAST` |
 
 ### VERSION 22 (pre-release)
 
@@ -49,7 +50,7 @@
   + [Spreadsheet Workbooks](https://github.com/pffy/data-mcdonalds/tree/master/workbooks)
 
 
-### [VERSION 3][gh_stable]
+### VERSION 3
 
 + Data from May 2015.
 + 412 menu items processed.
