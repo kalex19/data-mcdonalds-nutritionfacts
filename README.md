@@ -11,8 +11,6 @@
 
 ## DATA FORMATS
 
-## EXPERIMENTAL
-
 ### VERSION 22 (pre-release)
 
   + Data from October 29, 2015.
@@ -31,9 +29,8 @@
   + [Textfiles](https://github.com/pffy/data-mcdonalds/tree/master/textfiles)
   + [Spreadsheet Workbooks](https://github.com/pffy/data-mcdonalds/tree/master/workbooks)
 
-## STABLE
 
-### VERSION 3
+### [VERSION 3][gh_stable]
 
 + Data from May 2015.
 + 412 menu items processed.
