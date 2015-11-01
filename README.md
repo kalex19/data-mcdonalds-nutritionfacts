@@ -129,3 +129,5 @@
 
 [gh_stable]: https://github.com/pffy/data-mcdonalds-nutrition-facts/releases/latest
 [web_mcdpdf]: http://nutrition.mcdonalds.com/getnutrition/nutritionfacts.pdf
+[markdownstore]: https://chrome.google.com/webstore/detail/markdowntablemaker/cofkbgfmijanlcdooemafafokhhaeold
+
