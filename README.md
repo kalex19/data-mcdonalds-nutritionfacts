@@ -121,7 +121,7 @@ Some menu items are in more than one category.
 
 ## REFERENCE
 
-+ [McDonald's USA Nutrition Facts for Popular Menu Items](http://nutrition.mcdonalds.com/getnutrition/nutritionfacts.pdf) (updated 05-01-2015)
++ [McDonald's USA Nutrition Facts for Popular Menu Items](http://nutrition.mcdonalds.com/getnutrition/nutritionfacts.pdf)
 
 ## DISCLAIMER
 
