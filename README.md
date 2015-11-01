@@ -19,7 +19,7 @@
 
 ### VERSION 22 (pre-release)
 
-  + Source data from [VERSION 3][gh_stable].
+  + Source data from [latest stable version][gh_stable].
   + Partial ETL solution available for this release.
   + No item categories for this release.
   + [Textfiles](https://github.com/pffy/data-mcdonalds/tree/master/textfiles)
@@ -27,7 +27,7 @@
   
 ### VERSION 21 (pre-release)
 
-  + Source data from [VERSION 3][gh_stable].
+  + Source data from [latest stable version][gh_stable].
   + No ETL solution available for this release.
   + No item categories for this release.
   + [Textfiles](https://github.com/pffy/data-mcdonalds/tree/master/textfiles)
