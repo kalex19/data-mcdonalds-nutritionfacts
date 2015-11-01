@@ -21,6 +21,8 @@
   + [View ETL Solution](https://github.com/pffy/data-mcdonalds/tree/master/docs).
   + New Menu Category Structure
 
+> NOTE: Table generated in Google Spreadsheets with the [MarkdownTableMaker Add-On][markdownstore].
+
 |  **CATEGORY** | **CODE** |
 |  ------ | ------ |
 |  Burgers & Sandwiches | `BURGERSANDWICH` |
