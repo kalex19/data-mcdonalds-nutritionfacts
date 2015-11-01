@@ -4,7 +4,7 @@
   + Use the [latest stable release][gh_stable] for research.
   + November 2015 Refresh.
 
-## PROJECT SCOPE
+### PROJECT SCOPE
 
 + This project only demonstrates [extraction, transformation and loading](http://en.wikipedia.org/wiki/Extract,_transform,_load) of McDonald's Nutrition Facts data.
 + See [documentation](https://github.com/pffy/data-mcdonalds/tree/master/docs) for ETL process details specific to this project.
@@ -16,6 +16,8 @@
 
   + November 2015 Refresh.
   + Source data from October 29, 2015.
+  + [Textfiles](https://github.com/pffy/data-mcdonalds/tree/master/textfiles)
+  + [Spreadsheet Workbooks](https://github.com/pffy/data-mcdonalds/tree/master/workbooks)
   + [View ETL Solution](https://github.com/pffy/data-mcdonalds/tree/master/docs).
   + New Menu Category Structure
 
@@ -112,34 +114,8 @@
   + McDonald's has optimized its supply chain to offer several healthy
   items for breakfast, lunch and dinner. **Many locations are open 24 hours.**
 
-
-#### MCDONALDS USA CATEGORIES
-
-The popular menu items at McDonald's USA are divided into 9 simple categories:
-
-  + Burgers and Sandwiches
-  + Chicken and Fish
-  + Breakfast
-  + Salads
-  + Snacks and Sides
-  + Beverages
-  + McCafe
-  + Dessert/Shakes
-  + Condiments
-
-```
-  BURGERSANDWICH
-  CHICKENFISH
-  BREAKFAST
-  SALAD
-  SNACKSIDE
-  BEVERAGE
-  MCCAFE
-  DESSERTSHAKE
-  CONDIMENT
-```
-
-Some menu items are in more than one category.
+  + Some menu items are in more than one category.
+  
 
 ## REFERENCE
 
