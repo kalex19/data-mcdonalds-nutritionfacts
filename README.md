@@ -16,8 +16,18 @@
 
   + November 2015 Refresh.
   + Source data from October 29, 2015.
+  + New Menu Category Structure
+    + Burgers & Sandwiches
+    + Chicken & Fish
+    + Breakfast
+    + Salads
+    + Snacks and Sides
+    + Beverages
+    + McCafe
+    + Dessert & Shakes
+    + Condiments
+    + All Day Breakfast
   
-
 
 ### VERSION 22 (pre-release)
 
@@ -26,7 +36,8 @@
   + No item categories for this release.
   + [Textfiles](https://github.com/pffy/data-mcdonalds/tree/master/textfiles)
   + [Spreadsheet Workbooks](https://github.com/pffy/data-mcdonalds/tree/master/workbooks)
-  
+
+
 ### VERSION 21 (pre-release)
 
   + Source data from October 13, 2015.
@@ -62,8 +73,8 @@
   + Flexible, self-containted, serverless, zero-config, transactional [SQL database engine](http://www.sqlite.org/).
 + [View ETL Solution](https://github.com/pffy/data-mcdonalds/tree/master/docs).
 
-### VERSION 1
 
+### VERSION 1
 
 + Data from June 2014.
 + 393 menu items processed.
@@ -72,6 +83,7 @@
   + JSON: [JavaScript Object Notation](http://www.json.org/).
   + Very portable and processed by most modern languages.
 + [View ETL Solution](https://github.com/pffy/data-mcdonalds/tree/master/docs).
+
 
 ### POSSIBLE FORMATS
 
