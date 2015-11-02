@@ -15,7 +15,7 @@
 
   + November 2015 Refresh.
   + Source data from October 29, 2015.
-  + Uses new menu structure introduced by addition of all day breakfast menu.
+  + Uses new menu structure introduced by addition of **All Day Breakfast** menu.
   + [Project 26 ETL Solution][gh_docs] adds automatic addition of categories to TSV, JSON or XML export files.
   + [Textfiles][gh_textfiles]
   + [Spreadsheet Workbooks][gh_workbooks]
