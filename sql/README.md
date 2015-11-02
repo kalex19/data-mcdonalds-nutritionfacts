@@ -1,4 +1,6 @@
 # SQLITE
 
-+ Version 2 release notes
-  + Please note that the nutrition data is now in a table called `mcd`, not `nutrition`
++ SQLite not supported for the [latest release][gh_stable].
+
+
+[gh_stable]: https://github.com/pffy/data-mcdonalds-nutrition-facts/releases/latest
