@@ -7,60 +7,8 @@
 <resources>
 
 
-    <!-- Menu Item Categories -->
-    <string-array name="categories">
-        <item><![CDATA[Burgers & Sandwiches]]></item>
-        <item><![CDATA[Chicken & Fish]]></item>
-        <item><![CDATA[Breakfast]]></item>
-        <item><![CDATA[Salads]]></item>
-        <item><![CDATA[Snacks & Sides]]></item>
-        <item><![CDATA[Beverages]]></item>
-        <item><![CDATA[McCafe]]></item>
-        <item><![CDATA[Desserts & Shakes]]></item>
-        <item><![CDATA[Condiments]]></item>
-        <item><![CDATA[All Day Breakfast]]></item>
-    </string-array>
-
-
-    <!-- Burgers & Sandwiches -->
-    <string-array name="burgersandwich">
-        <item><![CDATA[Bacon Clubhouse Burger 9.7 oz (274 g)]]></item>
-        <item><![CDATA[Premium Grilled Chicken Bacon Clubhouse Sandwich 10 oz (285 g)]]></item>
-        <item><![CDATA[Premium Buttermilk Crispy Chicken Bacon Clubhouse Sandwich 10.1 oz (287 g)]]></item>
-        <item><![CDATA[McChicken ® 5.1 oz (144 g)]]></item>
-        <item><![CDATA[Buffalo Ranch McChicken 5.2 oz (148 g)]]></item>
-        <item><![CDATA[Bacon Buffalo Ranch McChicken 5.7 oz (162 g)]]></item>
-        <item><![CDATA[Bacon Cheddar McChicken 6.1 oz (172 g)]]></item>
-        <item><![CDATA[Southern Style Buttermilk Crispy Chicken Sandwich 5.7 oz (162 g)]]></item>
-        <item><![CDATA[Filet-O-Fish 5 oz (142 g)]]></item>
-        <item><![CDATA[McRib ® 7.3 oz (208 g)]]></item>
-        <item><![CDATA[Premium McWrap Chicken & Bacon (Buttermilk Crispy) 11.1 oz (314 g)]]></item>
-        <item><![CDATA[Premium McWrap Chicken & Bacon (Grilled) 11 oz (312 g)]]></item>
-        <item><![CDATA[Premium McWrap Chicken & Ranch (Buttermilk Crispy) 10.9 oz (309 g)]]></item>
-        <item><![CDATA[Premium McWrap Chicken & Ranch (Grilled) 10.8 oz (306 g)]]></item>
-        <item><![CDATA[Premium McWrap Chicken Sweet Chili (Buttermilk Crispy) 10.6 oz (301 g)]]></item>
-        <item><![CDATA[Premium McWrap Chicken Sweet Chili (Grilled) 10.4 oz (294 g)]]></item>
-        <item><![CDATA[Big Mac 7.5 oz (212 g)]]></item>
-        <item><![CDATA[Quarter Pounder® with Cheese 7.3 oz (206 g)]]></item>
-        <item><![CDATA[Double Quarter Pounder with Cheese 10.3 oz (291 g)]]></item>
-        <item><![CDATA[Hamburger 3.5 oz (99 g)]]></item>
-        <item><![CDATA[Cheeseburger 4 oz (113 g)]]></item>
-        <item><![CDATA[BBQ Ranch Burger 4 oz (114 g)]]></item>
-        <item><![CDATA[Grilled Onion Cheddar 4 oz (114 g)]]></item>
-        <item><![CDATA[Double Cheeseburger 5.7 oz (163 g)]]></item>
-        <item><![CDATA[McDouble 5.2 oz (148 g)]]></item>
-        <item><![CDATA[Bacon McDouble 5.7 oz (162 g)]]></item>
-        <item><![CDATA[Daily Double 6.8 oz (191 g)]]></item>
-        <item><![CDATA[Ranch Snack Wrap® (Buttermilk Crispy) 4.6 oz (129 g)]]></item>
-        <item><![CDATA[Ranch Snack Wrap® (Grilled) 4.5 oz (128 g)]]></item>
-        <item><![CDATA[Mac Snack Wrap 4.4 oz (125 g)]]></item>
-        <item><![CDATA[Jalapeño Double 5.7 oz (160 g)]]></item>
-        <item><![CDATA[Premium Crispy Chicken Deluxe Sandwich 8 oz (227 g)]]></item>
-        <item><![CDATA[Quarter Pounder Deluxe 9.2 oz (260 g)]]></item>
-        <item><![CDATA[Artisan Grilled Chicken Sandwich 7.3 oz (207 g)]]></item>
-        <item><![CDATA[Premium Buttermilk Crispy Chicken Deluxe Sandwich 8.1 oz (230 g)]]></item>
-    </string-array>
-    <string-array name="burgersandwich_details">
+    <!-- McDonalds Nutrition Facts -->
+    <string-array name="mcdonalds_nutrition">
         <item><![CDATA[740;41;16;1.5;125;1480;51;4;14;40;Bacon Clubhouse Burger 9.7 oz (274 g)]]></item>
         <item><![CDATA[610;26;8;0;125;1750;50;3;14;45;Premium Grilled Chicken Bacon Clubhouse Sandwich 10 oz (285 g)]]></item>
         <item><![CDATA[790;40;11;0.5;110;1620;67;5;15;40;Premium Buttermilk Crispy Chicken Bacon Clubhouse Sandwich 10.1 oz (287 g)]]></item>
@@ -96,49 +44,6 @@
         <item><![CDATA[600;33;14;1.5;105;1200;44;3;11;31;Quarter Pounder Deluxe 9.2 oz (260 g)]]></item>
         <item><![CDATA[360;6;1.5;0;75;960;43;3;10;33;Artisan Grilled Chicken Sandwich 7.3 oz (207 g)]]></item>
         <item><![CDATA[580;24;4.5;0;65;900;62;4;11;29;Premium Buttermilk Crispy Chicken Deluxe Sandwich 8.1 oz (230 g)]]></item>
-    </string-array>
-
-
-    <!-- Chicken & Fish -->
-    <string-array name="chickenfish">
-        <item><![CDATA[Premium Grilled Chicken Bacon Clubhouse Sandwich 10 oz (285 g)]]></item>
-        <item><![CDATA[Premium Buttermilk Crispy Chicken Bacon Clubhouse Sandwich 10.1 oz (287 g)]]></item>
-        <item><![CDATA[McChicken ® 5.1 oz (144 g)]]></item>
-        <item><![CDATA[Buffalo Ranch McChicken 5.2 oz (148 g)]]></item>
-        <item><![CDATA[Bacon Buffalo Ranch McChicken 5.7 oz (162 g)]]></item>
-        <item><![CDATA[Bacon Cheddar McChicken 6.1 oz (172 g)]]></item>
-        <item><![CDATA[Southern Style Buttermilk Crispy Chicken Sandwich 5.7 oz (162 g)]]></item>
-        <item><![CDATA[Filet-O-Fish 5 oz (142 g)]]></item>
-        <item><![CDATA[Premium McWrap Chicken & Bacon (Buttermilk Crispy) 11.1 oz (314 g)]]></item>
-        <item><![CDATA[Premium McWrap Chicken & Bacon (Grilled) 11 oz (312 g)]]></item>
-        <item><![CDATA[Premium McWrap Chicken & Ranch (Buttermilk Crispy) 10.9 oz (309 g)]]></item>
-        <item><![CDATA[Premium McWrap Chicken & Ranch (Grilled) 10.8 oz (306 g)]]></item>
-        <item><![CDATA[Premium McWrap Chicken Sweet Chili (Buttermilk Crispy) 10.6 oz (301 g)]]></item>
-        <item><![CDATA[Premium McWrap Chicken Sweet Chili (Grilled) 10.4 oz (294 g)]]></item>
-        <item><![CDATA[Chicken McNuggets® (10 piece) 5.7 oz (162 g)]]></item>
-        <item><![CDATA[Ranch Snack Wrap® (Buttermilk Crispy) 4.6 oz (129 g)]]></item>
-        <item><![CDATA[Chicken McNuggets® (20 piece) 11.4 oz (323 g)]]></item>
-        <item><![CDATA[Chicken McNuggets® (6 piece) 3.4 oz (97 g)]]></item>
-        <item><![CDATA[Chicken McNuggets® (40 piece) 22.8 oz (646 g)]]></item>
-        <item><![CDATA[Premium Bacon Ranch Salad with Buttermilk Crispy Chicken 9.5 oz (268 g)]]></item>
-        <item><![CDATA[Ranch Snack Wrap® (Grilled) 4.5 oz (128 g)]]></item>
-        <item><![CDATA[Premium Bacon Ranch Salad with Grilled Chicken 9.4 oz (266 g)]]></item>
-        <item><![CDATA[Premium Southwest Salad with Buttermilk Crispy Chicken 10.4 oz (294 g)]]></item>
-        <item><![CDATA[Premium Southwest Salad with Grilled Chicken 10.3 oz (292 g)]]></item>
-        <item><![CDATA[Chicken McNuggets® (4 piece) 2.3 oz (65 g)]]></item>
-        <item><![CDATA[Premium Crispy Chicken Deluxe Sandwich 8 oz (227 g)]]></item>
-        <item><![CDATA[Chicken Selects (3 pc) 4.4 oz (124 g)]]></item>
-        <item><![CDATA[Artisan Grilled Chicken Sandwich 7.3 oz (207 g)]]></item>
-        <item><![CDATA[Premium Buttermilk Crispy Chicken Deluxe Sandwich 8.1 oz (230 g)]]></item>
-        <item><![CDATA[Bacon Clubhouse Crispy Chicken Sandwich 10 oz (284 g)]]></item>
-        <item><![CDATA[Premium McWrap Chicken & Bacon (Crispy) 11 oz (311 g)]]></item>
-        <item><![CDATA[Premium McWrap Chicken & Ranch (Crispy) 10.8 oz (305 g)]]></item>
-        <item><![CDATA[Premium McWrap Chicken Sweet Chili (Crispy) 10.5 oz (298 g)]]></item>
-        <item><![CDATA[Ranch Snack Wrap® (Crispy) 4.5 oz (128 g)]]></item>
-        <item><![CDATA[Premium Bacon Ranch Salad with Crispy Chicken 9.3 oz (265 g)]]></item>
-        <item><![CDATA[Premium Southwest Salad with Crispy Chicken 10.4 oz (294 g)]]></item>
-    </string-array>
-    <string-array name="chickenfish_details">
         <item><![CDATA[610;26;8;0;125;1750;50;3;14;45;Premium Grilled Chicken Bacon Clubhouse Sandwich 10 oz (285 g)]]></item>
         <item><![CDATA[790;40;11;0.5;110;1620;67;5;15;40;Premium Buttermilk Crispy Chicken Bacon Clubhouse Sandwich 10.1 oz (287 g)]]></item>
         <item><![CDATA[370;17;3.5;0;40;650;40;2;5;14;McChicken ® 5.1 oz (144 g)]]></item>
@@ -175,57 +80,6 @@
         <item><![CDATA[360;20;5;0;40;810;32;1;3;15;Ranch Snack Wrap® (Crispy) 4.5 oz (128 g)]]></item>
         <item><![CDATA[450;26;8;0;85;1100;23;3;6;30;Premium Bacon Ranch Salad with Crispy Chicken 9.3 oz (265 g)]]></item>
         <item><![CDATA[470;24;6;0;60;890;41;7;11;25;Premium Southwest Salad with Crispy Chicken 10.4 oz (294 g)]]></item>
-    </string-array>
-
-
-    <!-- Breakfast -->
-    <string-array name="breakfast">
-        <item><![CDATA[Fruit \'n Yogurt Parfait 5.2 oz (149 g)]]></item>
-        <item><![CDATA[Steak, Egg & Cheese Bagel 8.5 oz (242 g)]]></item>
-        <item><![CDATA[Steak & Egg Biscuit (Regular Biscuit) 7 oz (198 g)]]></item>
-        <item><![CDATA[Sausage McMuffin with Egg 5.7 oz (162 g)]]></item>
-        <item><![CDATA[Hotcakes and Sausage 6.7 oz (189 g)]]></item>
-        <item><![CDATA[Southern Style Chicken Biscuit (Regular Size Biscuit) 4.9 oz (140 g)]]></item>
-        <item><![CDATA[Sausage Burrito 3.9 oz (111 g)]]></item>
-        <item><![CDATA[Fruit & Maple Oatmeal 8.9 oz (251 g)]]></item>
-        <item><![CDATA[Egg McMuffin® 4.7 oz (134 g)]]></item>
-        <item><![CDATA[Bacon, Egg & Cheese Biscuit (Regular Size Biscuit) 5.2 oz (147 g)]]></item>
-        <item><![CDATA[Sausage Biscuit (Regular Size Biscuit) 4.1 oz (117 g)]]></item>
-        <item><![CDATA[Sausage Biscuit with Egg (Regular Size Biscuit) 5.8 oz (164 g)]]></item>
-        <item><![CDATA[Bacon, Egg & Cheese McGriddles 6.2 oz (175 g)]]></item>
-        <item><![CDATA[Sausage McGriddles® 5.1 oz (144 g)]]></item>
-        <item><![CDATA[Sausage, Egg & Cheese McGriddles® 7.2 oz (205 g)]]></item>
-        <item><![CDATA[Bacon, Egg & Cheese Bagel with Egg Whites 6.8 oz (194 g)]]></item>
-        <item><![CDATA[Big Breakfast® (Regular Size Biscuit) 9.4 oz (267 g)]]></item>
-        <item><![CDATA[Big Breakfast with Hotcakes (Regular Size Biscuit) 14.5 oz (412 g)]]></item>
-        <item><![CDATA[Cinnamon Melts 4 oz (114 g)]]></item>
-        <item><![CDATA[Hotcakes 5.1 oz (144 g)]]></item>
-        <item><![CDATA[Egg White Delight 4.8 oz (135 g)]]></item>
-        <item><![CDATA[HASH BROWNS 2 oz (56 g)]]></item>
-        <item><![CDATA[Bacon, Egg & Cheese Biscuit (Large Size Biscuit) 5.9 oz (166 g)]]></item>
-        <item><![CDATA[Big Breakfast with Hotcakes (Large Size Biscuit) 15.2 oz (430 g)]]></item>
-        <item><![CDATA[Big Breakfast® (Large Size Biscuit) 10.1 oz (286 g)]]></item>
-        <item><![CDATA[Sausage Biscuit (Large Size Biscuit) 4.8 oz (136 g)]]></item>
-        <item><![CDATA[Sausage Biscuit with Egg (Large Size Biscuit) 6.4 oz (182 g)]]></item>
-        <item><![CDATA[Southern Style Chicken Biscuit (Large Size Biscuit) 5.6 oz (159 g)]]></item>
-        <item><![CDATA[Bacon, Egg & Cheese Biscuit with Egg Whites (Large Biscuit) 6 oz (170 g)]]></item>
-        <item><![CDATA[Sausage McMuffin with Egg Whites 5.8 oz (163 g)]]></item>
-        <item><![CDATA[Bacon, Egg & Cheese McGriddles with Egg Whites 6.3 oz (178 g)]]></item>
-        <item><![CDATA[Bacon, Egg & Cheese Biscuit with Egg Whites (Regular Biscuit)® 5.3 oz (150 g)]]></item>
-        <item><![CDATA[Big Breakfast with Egg Whites (Large Size Biscuit) 10.3 oz (292 g)]]></item>
-        <item><![CDATA[Big Breakfast with Egg Whites (Regular Size Biscuit) 9.6 oz (272 g)]]></item>
-        <item><![CDATA[Big Breakfast with Hotcakes and Egg Whites (Large Biscuit) 15.4 oz (437 g)]]></item>
-        <item><![CDATA[Big Breakfast with Hotcakes and Egg Whites (Regular Biscuit) 14.7 oz (417 g)]]></item>
-        <item><![CDATA[Fruit & Maple Oatmeal 8.9 oz (251 g)]]></item>
-        <item><![CDATA[Fruit & Maple Oatmeal without Brown Sugar 8.8 oz (250 g)]]></item>
-        <item><![CDATA[Sausage Biscuit with Egg Whites (Large Size Biscuit) 6.5 oz (185 g)]]></item>
-        <item><![CDATA[Sausage Biscuit with Egg Whites (Regular Size Biscuit) 5.9 oz (167 g)]]></item>
-        <item><![CDATA[Sausage, Egg & Cheese McGriddles with Egg Whites 7.4 oz (209 g)]]></item>
-        <item><![CDATA[Bacon, Egg & Cheese Bagel 6.7 oz (191 g)]]></item>
-        <item><![CDATA[Steak, Egg & Cheese McMuffin 6.4 oz (183 g)]]></item>
-        <item><![CDATA[Sausage McMuffin 4 oz (114 g)]]></item>
-    </string-array>
-    <string-array name="breakfast_details">
         <item><![CDATA[150;2;1;0;5;80;30;1;23;4;Fruit \'n Yogurt Parfait 5.2 oz (149 g)]]></item>
         <item><![CDATA[660;34;14;1.5;285;1490;56;3;7;33;Steak, Egg & Cheese Bagel 8.5 oz (242 g)]]></item>
         <item><![CDATA[530;32;15;1;260;1420;37;2;3;25;Steak & Egg Biscuit (Regular Biscuit) 7 oz (198 g)]]></item>
@@ -270,20 +124,6 @@
         <item><![CDATA[580;28;12;0.5;255;1330;55;3;7;27;Bacon, Egg & Cheese Bagel 6.7 oz (191 g)]]></item>
         <item><![CDATA[430;23;10;1;285;970;30;2;2;26;Steak, Egg & Cheese McMuffin 6.4 oz (183 g)]]></item>
         <item><![CDATA[400;25;10;0;60;750;28;1;2;14;Sausage McMuffin 4 oz (114 g)]]></item>
-    </string-array>
-
-
-    <!-- Salads -->
-    <string-array name="salad">
-        <item><![CDATA[Side Salad 2.7 oz (78 g)]]></item>
-        <item><![CDATA[Premium Bacon Ranch Salad (without chicken) 5.9 oz (169 g)]]></item>
-        <item><![CDATA[Premium Southwest Salad (without chicken) 6.1 oz (173 g)]]></item>
-        <item><![CDATA[Premium Bacon Ranch Salad with Buttermilk Crispy Chicken 9.5 oz (268 g)]]></item>
-        <item><![CDATA[Premium Bacon Ranch Salad with Grilled Chicken 9.4 oz (266 g)]]></item>
-        <item><![CDATA[Premium Southwest Salad with Buttermilk Crispy Chicken 10.4 oz (294 g)]]></item>
-        <item><![CDATA[Premium Southwest Salad with Grilled Chicken 10.3 oz (292 g)]]></item>
-    </string-array>
-    <string-array name="salad_details">
         <item><![CDATA[15;0;0;0;0;10;3;2;1;1;Side Salad 2.7 oz (78 g)]]></item>
         <item><![CDATA[190;12;6;0;40;530;8;3;3;14;Premium Bacon Ranch Salad (without chicken) 5.9 oz (169 g)]]></item>
         <item><![CDATA[160;7;3;0;15;190;18;5;4;8;Premium Southwest Salad (without chicken) 6.1 oz (173 g)]]></item>
@@ -291,26 +131,6 @@
         <item><![CDATA[310;14;6;0;115;1120;9;3;3;38;Premium Bacon Ranch Salad with Grilled Chicken 9.4 oz (266 g)]]></item>
         <item><![CDATA[510;26;6;0;75;790;43;7;9;28;Premium Southwest Salad with Buttermilk Crispy Chicken 10.4 oz (294 g)]]></item>
         <item><![CDATA[330;11;4;0;90;920;26;6;9;33;Premium Southwest Salad with Grilled Chicken 10.3 oz (292 g)]]></item>
-    </string-array>
-
-
-    <!-- Snacks & Sides -->
-    <string-array name="snackside">
-        <item><![CDATA[Fruit \'n Yogurt Parfait 5.2 oz (149 g)]]></item>
-        <item><![CDATA[Small French Fries 2.6 oz (75 g)]]></item>
-        <item><![CDATA[Apple Slices 1.2 oz (34 g)]]></item>
-        <item><![CDATA[Side Salad 2.7 oz (78 g)]]></item>
-        <item><![CDATA[Large French Fries 5.9 oz (168 g)]]></item>
-        <item><![CDATA[Medium French Fries 3.9 oz (111 g)]]></item>
-        <item><![CDATA[Kids Fries 1.3 oz (38 g)]]></item>
-        <item><![CDATA[Ranch Snack Wrap® (Buttermilk Crispy) 4.6 oz (129 g)]]></item>
-        <item><![CDATA[Ranch Snack Wrap® (Grilled) 4.5 oz (128 g)]]></item>
-        <item><![CDATA[Mac Snack Wrap 4.4 oz (125 g)]]></item>
-        <item><![CDATA[Go-GURT Strawberry Flavored Low Fat Yogurt Tube 2.3 oz (64 g)]]></item>
-        <item><![CDATA[Cuties 3 oz (85 g)]]></item>
-        <item><![CDATA[Mozzarella Sticks (Three pieces) 2.3 oz (65 g)]]></item>
-    </string-array>
-    <string-array name="snackside_details">
         <item><![CDATA[150;2;1;0;5;80;30;1;23;4;Fruit \'n Yogurt Parfait 5.2 oz (149 g)]]></item>
         <item><![CDATA[230;11;1.5;0;0;130;30;2;0;2;Small French Fries 2.6 oz (75 g)]]></item>
         <item><![CDATA[15;0;0;0;0;0;4;0;3;0;Apple Slices 1.2 oz (34 g)]]></item>
@@ -324,136 +144,6 @@
         <item><![CDATA[50;0.5;0;0;5;35;9;0;6;2;Go-GURT Strawberry Flavored Low Fat Yogurt Tube 2.3 oz (64 g)]]></item>
         <item><![CDATA[40;0;0;0;0;0;10;1;8;1;Cuties 3 oz (85 g)]]></item>
         <item><![CDATA[200;10;4;0;20;560;18;1;1;9;Mozzarella Sticks (Three pieces) 2.3 oz (65 g)]]></item>
-    </string-array>
-
-
-    <!-- Beverages -->
-    <string-array name="beverage">
-        <item><![CDATA[McCafé Mocha (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Coffee (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Chocolate McCafé Shake (Small) 12 fl oz]]></item>
-        <item><![CDATA[Vanilla McCafé Shake (Small) 12 fl oz]]></item>
-        <item><![CDATA[Strawberry McCafé Shake (Small) 12 fl oz]]></item>
-        <item><![CDATA[Coffee (Large) 20 fl oz cup]]></item>
-        <item><![CDATA[Premium Roast Iced Coffee (Small) -]]></item>
-        <item><![CDATA[McCafé Caramel Mocha (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Frappe Mocha (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Frappe Caramel (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Frappe Chocolate Chip (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Blueberry Pomegranate Smoothie (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Strawberry Banana Smoothie (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Mango Pineapple Smoothie (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[McCafé Hot Chocolate (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Minute Maid® 100% Apple Juice Box 6 fl oz (177 ml)]]></item>
-        <item><![CDATA[McCafé Latte (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Shamrock McCafe® Shake (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[McCafé Iced Mocha (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[McCafé Iced Caramel Mocha (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[McCafé White Chocolate Mocha (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Coffee (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Iced Coffee with Sugar Free French Vanilla Syrup (Large) -]]></item>
-        <item><![CDATA[Iced Coffee with Sugar Free French Vanilla Syrup (Medium) -]]></item>
-        <item><![CDATA[Iced Coffee with Sugar Free French Vanilla Syrup (Small) -]]></item>
-        <item><![CDATA[Iced Coffee Caramel (Large) -]]></item>
-        <item><![CDATA[Iced Coffee Caramel (Medium) -]]></item>
-        <item><![CDATA[Iced Coffee Caramel (Small) -]]></item>
-        <item><![CDATA[Iced Coffee French Vanilla (Large) -]]></item>
-        <item><![CDATA[Iced Coffee French Vanilla (Medium) -]]></item>
-        <item><![CDATA[Iced Coffee French Vanilla (Small) -]]></item>
-        <item><![CDATA[Iced Coffee Hazelnut (Large) -]]></item>
-        <item><![CDATA[Iced Coffee Hazelnut (Medium) -]]></item>
-        <item><![CDATA[Iced Coffee Hazelnut (Small) -]]></item>
-        <item><![CDATA[Iced Coffee Regular (Large) -]]></item>
-        <item><![CDATA[Iced Coffee Regular (Medium) -]]></item>
-        <item><![CDATA[Iced Coffee Regular (Small) -]]></item>
-        <item><![CDATA[Premium Roast Iced Coffee (Large) -]]></item>
-        <item><![CDATA[Premium Roast Iced Coffee (Medium) -]]></item>
-        <item><![CDATA[Fat Free Chocolate Milk Jug 1 carton (236 ml)]]></item>
-        <item><![CDATA[Minute Maid® Orange Juice (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Dasani® Water 16.9 fl oz (- {})]]></item>
-        <item><![CDATA[One-Percent Low Fat Milk Jug 1 carton (236 ml)]]></item>
-        <item><![CDATA[Coca-Cola® Classic (Small) 16 fl oz cup]]></item>
-        <item><![CDATA[Diet Coke® (Small) 16 fl oz cup]]></item>
-        <item><![CDATA[Dr Pepper® (Small) 16 fl oz cup]]></item>
-        <item><![CDATA[Diet Dr Pepper® (Small) 16 fl oz cup]]></item>
-        <item><![CDATA[Sprite® (Small) 16 fl oz cup]]></item>
-        <item><![CDATA[Hi-C® Orange Lavaburst (Small) 16 fl oz cup]]></item>
-        <item><![CDATA[Iced Tea (Small) (16 fl oz cup)]]></item>
-        <item><![CDATA[Sweet Tea (Small) 16 fl oz cup]]></item>
-        <item><![CDATA[Minute Maid® Orange Juice (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[POWERade® Mountain Blast (Small) 16 fl oz cup]]></item>
-        <item><![CDATA[Sweet Tea (Medium) 21 fl oz cup]]></item>
-        <item><![CDATA[Coca-Cola® Classic (Extra Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Coca-Cola® Classic (Large) 30 fl oz cup]]></item>
-        <item><![CDATA[Coca-Cola® Classic (Medium) 21 fl oz cup]]></item>
-        <item><![CDATA[Diet Coke® (Extra Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Diet Coke® (Large) 30 fl oz cup]]></item>
-        <item><![CDATA[Diet Coke® (Medium) 21 fl oz cup]]></item>
-        <item><![CDATA[Diet Dr Pepper® (Extra Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Diet Dr Pepper® (Large) 30 fl oz cup]]></item>
-        <item><![CDATA[Diet Dr Pepper® (Medium) 21 fl oz cup]]></item>
-        <item><![CDATA[Dr Pepper® (Extra Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Dr Pepper® (Large) 30 fl oz cup]]></item>
-        <item><![CDATA[Dr Pepper® (Medium) 21 fl oz cup]]></item>
-        <item><![CDATA[Hi-C® Orange Lavaburst (Extra Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Hi-C® Orange Lavaburst (Large) 30 fl oz cup]]></item>
-        <item><![CDATA[Hi-C® Orange Lavaburst (Medium) 21 fl oz cup]]></item>
-        <item><![CDATA[Iced Tea (Extra Small) (12 fl oz cup)]]></item>
-        <item><![CDATA[Iced Tea (Large) (32 fl oz cup)]]></item>
-        <item><![CDATA[Iced Tea (Medium) (21 fl oz cup)]]></item>
-        <item><![CDATA[Minute Maid® Orange Juice (Large) 22 fl oz cup]]></item>
-        <item><![CDATA[POWERade® Mountain Blast (Extra Small) 12 fl oz cup]]></item>
-        <item><![CDATA[POWERade® Mountain Blast (Large) 30 fl oz cup]]></item>
-        <item><![CDATA[POWERade® Mountain Blast (Medium) 21 fl oz cup]]></item>
-        <item><![CDATA[Sprite® (Extra Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Sprite® (Large) 30 fl oz cup]]></item>
-        <item><![CDATA[Sprite® (Medium) 21 fl oz cup]]></item>
-        <item><![CDATA[Sweet Tea (Extra Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Sweet Tea (Large) 30 fl oz cup]]></item>
-        <item><![CDATA[McCafé White Hot Chocolate (Small) 13.3 oz (376 g)]]></item>
-        <item><![CDATA[McCafé White Hot Chocolate (Medium) 16.3 oz (463 g)]]></item>
-        <item><![CDATA[McCafé White Hot Chocolate (Large) 20.8 oz (589 g)]]></item>
-        <item><![CDATA[Red Flash (Extra Small) 9.2 oz (260 g)]]></item>
-        <item><![CDATA[Red Flash (Small) 12.6 oz (358 g)]]></item>
-        <item><![CDATA[Red Flash (Medium) 18.2 oz (515 g)]]></item>
-        <item><![CDATA[Red Flash (Large) 25 oz (709 g)]]></item>
-        <item><![CDATA[Iced Classic Lemonade (Small) 12.3 oz (348 g)]]></item>
-        <item><![CDATA[Iced Classic Lemonade (Medium) 15.6 oz (441 g)]]></item>
-        <item><![CDATA[Iced Classic Lemonade (Large) 20.3 oz (574 g)]]></item>
-        <item><![CDATA[Iced Classic Lemonade (Extra Large) 34.3 oz (973 g)]]></item>
-        <item><![CDATA[Frozen Classic Lemonade (Small) 12.6 oz (357 g)]]></item>
-        <item><![CDATA[Frozen Classic Lemonade (Medium) 15.6 oz (442 g)]]></item>
-        <item><![CDATA[Frozen Classic Lemonade (Large) 19.5 oz (553 g)]]></item>
-        <item><![CDATA[Frozen Classic Lemonade (Extra Large) 31.2 oz (885 g)]]></item>
-        <item><![CDATA[Iced Strawberry Lemonade (Small) 13.8 oz (390 g)]]></item>
-        <item><![CDATA[Iced Strawberry Lemonade (Medium) 17.6 oz (500 g)]]></item>
-        <item><![CDATA[Iced Strawberry Lemonade (Large) 22.9 oz (649 g)]]></item>
-        <item><![CDATA[Iced Strawberry Lemonade (Extra Large) 37.5 oz (1063 g)]]></item>
-        <item><![CDATA[Frozen Strawberry Lemonade (Small) 14.1 oz (399 g)]]></item>
-        <item><![CDATA[Frozen Strawberry Lemonade (Medium) 17.7 oz (501 g)]]></item>
-        <item><![CDATA[Frozen Strawberry Lemonade (Large) 22.1 oz (627 g)]]></item>
-        <item><![CDATA[Frozen Strawberry Lemonade (Extra Large) 34.4 oz (974 g)]]></item>
-        <item><![CDATA[Southern Style Iced Lemonade (Small) 12.3 oz (348 g)]]></item>
-        <item><![CDATA[Southern Style Iced Lemonade (Medium) 15.6 oz (441 g)]]></item>
-        <item><![CDATA[Southern Style Iced Lemonade (Large) 20.3 oz (574 g)]]></item>
-        <item><![CDATA[Southern Style Iced Lemonade (Extra Large) 34.3 oz (973 g)]]></item>
-        <item><![CDATA[Southern Style Frozen Lemonade (Small) 12.6 oz (357 g)]]></item>
-        <item><![CDATA[Southern Style Frozen Lemonade (Medium) 15.6 oz (442 g)]]></item>
-        <item><![CDATA[Southern Style Frozen Lemonade (Large) 19.5 oz (553 g)]]></item>
-        <item><![CDATA[Southern Style Frozen Lemonade (Extra Large) 31.2 oz (885 g)]]></item>
-        <item><![CDATA[Southern Style Iced Strawberry Lemonade (Small) 13.8 oz (390 g)]]></item>
-        <item><![CDATA[Southern Style Iced Strawberry Lemonade (Medium) 17.6 oz (500 g)]]></item>
-        <item><![CDATA[Southern Style Iced Strawberry Lemonade (Large) 22.9 oz (649 g)]]></item>
-        <item><![CDATA[Southern Style Iced Strawberry Lemonade (Extra Large) 37.5 oz (1063 g)]]></item>
-        <item><![CDATA[Southern Style Frozen Strawberry Lemonade (Small) 14.1 oz (399 g)]]></item>
-        <item><![CDATA[Southern Style Frozen Strawberry Lemonade (Medium) 17.7 oz (501 g)]]></item>
-        <item><![CDATA[Southern Style Frozen Strawberry Lemonade (Large) 22.1 oz (627 g)]]></item>
-        <item><![CDATA[Southern Style Frozen Strawberry Lemonade (Extra Large) 34.4 oz (974 g)]]></item>
-        <item><![CDATA[Oreo Frappe (Small) 14.6 oz (413 g)]]></item>
-        <item><![CDATA[Oreo Frappe (Medium) 18.3 oz (518 g)]]></item>
-        <item><![CDATA[Oreo Frappe (Large) 22.9 oz (648 g)]]></item>
-    </string-array>
-    <string-array name="beverage_details">
         <item><![CDATA[340;11;7;0;35;150;49;2;42;10;McCafé Mocha (Small) 12 fl oz cup]]></item>
         <item><![CDATA[0;0;0;0;0;0;0;0;0;0;Coffee (Small) 12 fl oz cup]]></item>
         <item><![CDATA[560;16;10;1;60;240;91;1;77;12;Chocolate McCafé Shake (Small) 12 fl oz]]></item>
@@ -577,159 +267,6 @@
         <item><![CDATA[540;20;12;1;60;170;82;1;68;7;Oreo Frappe (Small) 14.6 oz (413 g)]]></item>
         <item><![CDATA[650;24;14;1;75;200;102;1;84;9;Oreo Frappe (Medium) 18.3 oz (518 g)]]></item>
         <item><![CDATA[810;28;17;1;90;240;128;1;106;11;Oreo Frappe (Large) 22.9 oz (648 g)]]></item>
-    </string-array>
-
-
-    <!-- McCafe -->
-    <string-array name="mccafe">
-        <item><![CDATA[McCafé Mocha (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Coffee (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Chocolate McCafé Shake (Medium) 16 fl oz]]></item>
-        <item><![CDATA[Chocolate McCafé Shake (Large) 22 fl oz]]></item>
-        <item><![CDATA[Chocolate McCafé Shake (Small) 12 fl oz]]></item>
-        <item><![CDATA[Vanilla McCafé Shake (Small) 12 fl oz]]></item>
-        <item><![CDATA[Strawberry McCafé Shake (Small) 12 fl oz]]></item>
-        <item><![CDATA[Coffee (Large) 20 fl oz cup]]></item>
-        <item><![CDATA[Premium Roast Iced Coffee (Small) -]]></item>
-        <item><![CDATA[McCafé Caramel Mocha (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Frappe Mocha (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Frappe Caramel (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Frappe Chocolate Chip (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Blueberry Pomegranate Smoothie (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Strawberry Banana Smoothie (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Mango Pineapple Smoothie (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[McCafé Hot Chocolate (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[McCafé Latte (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Shamrock McCafe® Shake (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[McCafé Iced Mocha (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[McCafé White Chocolate Mocha (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[McCafé Iced Caramel Mocha (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[McCafé Latte (Large) 20 fl oz cup]]></item>
-        <item><![CDATA[McCafé Hot Chocolate (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Frappe Caramel (Large) 22 fl oz cup]]></item>
-        <item><![CDATA[McCafé White Chocolate Mocha (Large) 20 fl oz cup]]></item>
-        <item><![CDATA[McCafé Latte (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[McCafé White Chocolate Mocha (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Nonfat Latte (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Nonfat French Vanilla Latte (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Nonfat French Vanilla Latte (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Nonfat Latte (Large) 20 fl oz cup]]></item>
-        <item><![CDATA[Nonfat Caramel Latte (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Nonfat French Vanilla Latte (Large) 20 fl oz cup]]></item>
-        <item><![CDATA[Nonfat Caramel Latte (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Nonfat Caramel Latte (Large) 20 fl oz cup]]></item>
-        <item><![CDATA[Nonfat Hazelnut Latte (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Nonfat Hazelnut Latte (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Nonfat Hazelnut Latte (Large) 20 fl oz cup]]></item>
-        <item><![CDATA[Nonfat Latte with Sugar Free French Vanilla Syrup (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Nonfat Latte with Sugar Free French Vanilla Syrup (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Nonfat Latte with Sugar Free French Vanilla Syrup (Large) 20 fl oz cup]]></item>
-        <item><![CDATA[McCafé Caramel Mocha (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[McCafé Caramel Mocha (Large) 20 fl oz cup]]></item>
-        <item><![CDATA[Hot Chocolate (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Hot Chocolate (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Hot Chocolate (Large) 20 fl oz cup]]></item>
-        <item><![CDATA[Hot Chocolate with Nonfat Milk (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Hot Chocolate with Nonfat Milk (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Blueberry Pomegranate Smoothie (Large) 22 fl oz cup]]></item>
-        <item><![CDATA[Blueberry Pomegranate Smoothie (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Coffee (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Frappe Chocolate Chip (Large) 22 fl oz cup]]></item>
-        <item><![CDATA[Frappe Chocolate Chip (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Hot Chocolate with Nonfat Milk (Large) 20 fl oz cup]]></item>
-        <item><![CDATA[Mango Pineapple Smoothie (Large) 22 fl oz cup]]></item>
-        <item><![CDATA[Mango Pineapple Smoothie (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Iced Mocha (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Iced Mocha with Nonfat Milk (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Iced Caramel Mocha (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Iced Caramel Mocha (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Iced Caramel Mocha (Large) 22 fl oz cup]]></item>
-        <item><![CDATA[Iced Nonfat Caramel Mocha (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Iced Nonfat Caramel Mocha (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Iced Nonfat Caramel Mocha (Large) 22 fl oz cup]]></item>
-        <item><![CDATA[Frappe Mocha (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Frappe Mocha (Large) 22 fl oz cup]]></item>
-        <item><![CDATA[Frappe Caramel (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Strawberry Banana Smoothie (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Strawberry Banana Smoothie (Large) 22 fl oz cup]]></item>
-        <item><![CDATA[Iced Coffee with Sugar Free French Vanilla Syrup (Large) -]]></item>
-        <item><![CDATA[Iced Coffee with Sugar Free French Vanilla Syrup (Medium) -]]></item>
-        <item><![CDATA[Iced Coffee with Sugar Free French Vanilla Syrup (Small) -]]></item>
-        <item><![CDATA[Iced Coffee Caramel (Large) -]]></item>
-        <item><![CDATA[Iced Coffee Caramel (Medium) -]]></item>
-        <item><![CDATA[Iced Coffee Caramel (Small) -]]></item>
-        <item><![CDATA[Iced Coffee French Vanilla (Large) -]]></item>
-        <item><![CDATA[Iced Coffee French Vanilla (Medium) -]]></item>
-        <item><![CDATA[Iced Coffee French Vanilla (Small) -]]></item>
-        <item><![CDATA[Iced Coffee Hazelnut (Large) -]]></item>
-        <item><![CDATA[Iced Coffee Hazelnut (Medium) -]]></item>
-        <item><![CDATA[Iced Coffee Hazelnut (Small) -]]></item>
-        <item><![CDATA[Iced Coffee Regular (Large) -]]></item>
-        <item><![CDATA[Iced Coffee Regular (Medium) -]]></item>
-        <item><![CDATA[Iced Coffee Regular (Small) -]]></item>
-        <item><![CDATA[Premium Roast Iced Coffee (Large) -]]></item>
-        <item><![CDATA[Premium Roast Iced Coffee (Medium) -]]></item>
-        <item><![CDATA[Strawberry McCafé Shake (Medium) 16 fl oz]]></item>
-        <item><![CDATA[Strawberry McCafé Shake (Large) 22 fl oz]]></item>
-        <item><![CDATA[Vanilla McCafé Shake (Medium) 16 fl oz]]></item>
-        <item><![CDATA[Vanilla McCafé Shake (Large) 22 fl oz]]></item>
-        <item><![CDATA[Shamrock McCafe® Shake (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Shamrock McCafe® Shake (Large) 22 fl oz cup]]></item>
-        <item><![CDATA[McCafé Hot Chocolate (Large) 20 fl oz cup]]></item>
-        <item><![CDATA[Iced Mocha (Large) 22 fl oz cup]]></item>
-        <item><![CDATA[Iced Mocha (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Iced Mocha with Nonfat Milk (Large) 22 fl oz cup]]></item>
-        <item><![CDATA[Iced Mocha with Nonfat Milk (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[McCafé Iced Mocha (Large) 22 fl oz cup]]></item>
-        <item><![CDATA[McCafé Iced Mocha (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[McCafé Iced Caramel Mocha (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[McCafé Iced Caramel Mocha (Large) 22 fl oz cup]]></item>
-        <item><![CDATA[Mocha (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Mocha (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Mocha (Large) 20 fl oz cup]]></item>
-        <item><![CDATA[Mocha with Nonfat Milk (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Mocha with Nonfat Milk (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Mocha with Nonfat Milk (Large) 20 fl oz cup]]></item>
-        <item><![CDATA[Caramel Mocha (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Caramel Mocha (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Caramel Mocha (Large) 20 fl oz cup]]></item>
-        <item><![CDATA[Nonfat Caramel Mocha (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Nonfat Caramel Mocha (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Nonfat Caramel Mocha (Large) 20 fl oz cup]]></item>
-        <item><![CDATA[Latte (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[McCafé Mocha (Large) 20 fl oz cup]]></item>
-        <item><![CDATA[McCafé Mocha (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Latte (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Latte (Large) 20 fl oz cup]]></item>
-        <item><![CDATA[Caramel Latte (Large) 20 fl oz cup]]></item>
-        <item><![CDATA[Caramel Latte (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Caramel Latte (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Hazelnut Latte (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Hazelnut Latte (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Hazelnut Latte (Large) 20 fl oz cup]]></item>
-        <item><![CDATA[French Vanilla Latte (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[French Vanilla Latte (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[French Vanilla Latte (Large) 20 fl oz cup]]></item>
-        <item><![CDATA[Latte with Sugar Free French Vanilla Syrup (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Latte with Sugar Free French Vanilla Syrup (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Latte with Sugar Free French Vanilla Syrup (Large) 20 fl oz cup]]></item>
-        <item><![CDATA[Nonfat Latte (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[White Hot Chocolate (Small) 13.3 oz (376 g)]]></item>
-        <item><![CDATA[White Hot Chocolate (Medium) 16.3 oz (463 g)]]></item>
-        <item><![CDATA[White Hot Chocolate (Large) 20.8 oz (589 g)]]></item>
-        <item><![CDATA[Nonfat White Hot Chocolate (Small) 13.3 oz (376 g)]]></item>
-        <item><![CDATA[Nonfat White Hot Chocolate (Medium) 16.4 oz (464 g)]]></item>
-        <item><![CDATA[Nonfat White Hot Chocolate (Large) 20.8 oz (590 g)]]></item>
-        <item><![CDATA[McCafé White Hot Chocolate (Small) 13.3 oz (376 g)]]></item>
-        <item><![CDATA[McCafé White Hot Chocolate (Medium) 16.3 oz (463 g)]]></item>
-        <item><![CDATA[McCafé White Hot Chocolate (Large) 20.8 oz (589 g)]]></item>
-        <item><![CDATA[Iced Classic Lemonade (Small) 12.3 oz (348 g)]]></item>
-        <item><![CDATA[Frozen Classic Lemonade (Small) 12.6 oz (357 g)]]></item>
-        <item><![CDATA[Iced Strawberry Lemonade (Small) 13.8 oz (390 g)]]></item>
-        <item><![CDATA[Frozen Strawberry Lemonade (Small) 14.1 oz (399 g)]]></item>
-        <item><![CDATA[Oreo Frappe (Small) 14.6 oz (413 g)]]></item>
-    </string-array>
-    <string-array name="mccafe_details">
         <item><![CDATA[340;11;7;0;35;150;49;2;42;10;McCafé Mocha (Small) 12 fl oz cup]]></item>
         <item><![CDATA[0;0;0;0;0;0;0;0;0;0;Coffee (Small) 12 fl oz cup]]></item>
         <item><![CDATA[700;20;12;1;75;300;114;2;97;15;Chocolate McCafé Shake (Medium) 16 fl oz]]></item>
@@ -876,40 +413,6 @@
         <item><![CDATA[120;0;0;0;0;10;32;1;28;1;Iced Strawberry Lemonade (Small) 13.8 oz (390 g)]]></item>
         <item><![CDATA[180;0;0;0;0;10;48;0;43;1;Frozen Strawberry Lemonade (Small) 14.1 oz (399 g)]]></item>
         <item><![CDATA[540;20;12;1;60;170;82;1;68;7;Oreo Frappe (Small) 14.6 oz (413 g)]]></item>
-    </string-array>
-
-
-    <!-- Desserts & Shakes -->
-    <string-array name="dessertshake">
-        <item><![CDATA[Baked Hot Apple Pie 2.7 oz (77 g)]]></item>
-        <item><![CDATA[Chocolate Chip Cookie 1 cookie (33 g)]]></item>
-        <item><![CDATA[Oatmeal Raisin Cookie 1 cookie (33 g)]]></item>
-        <item><![CDATA[Fruit \'n Yogurt Parfait 5.2 oz (149 g)]]></item>
-        <item><![CDATA[Chocolate McCafé Shake (Medium) 16 fl oz]]></item>
-        <item><![CDATA[Chocolate McCafé Shake (Large) 22 fl oz]]></item>
-        <item><![CDATA[Vanilla Reduced Fat Ice Cream Cone 3.7 oz (105 g)]]></item>
-        <item><![CDATA[Kiddie Cone 1 oz (29 g)]]></item>
-        <item><![CDATA[Hot Fudge Sundae 6.3 oz (179 g)]]></item>
-        <item><![CDATA[Hot Caramel Sundae 6.4 oz (182 g)]]></item>
-        <item><![CDATA[Strawberry Sundae 6.3 oz (178 g)]]></item>
-        <item><![CDATA[McFlurry® with M&M\'S® Chocolate Candies (12 fl oz cup) 12 fl oz cup (310 g)]]></item>
-        <item><![CDATA[McFlurry® with OREO® Cookies (12 fl oz cup) 10.1 oz (285 g)]]></item>
-        <item><![CDATA[Chocolate McCafé Shake (Small) 12 fl oz]]></item>
-        <item><![CDATA[Vanilla McCafé Shake (Small) 12 fl oz]]></item>
-        <item><![CDATA[Strawberry McCafé Shake (Small) 12 fl oz]]></item>
-        <item><![CDATA[STRAWBERRY & CREME PIE 3.03 oz (86 g)]]></item>
-        <item><![CDATA[Shamrock McCafe® Shake (Small) 12 fl oz cup]]></item>
-        <item><![CDATA[Snack Size McFlurry® with M&M\'S® Chocolate Candies 7.3 oz (207 g)]]></item>
-        <item><![CDATA[Snack Size McFlurry® with OREO® Cookies 6.7 oz (190 g)]]></item>
-        <item><![CDATA[Strawberry McCafé Shake (Medium) 16 fl oz]]></item>
-        <item><![CDATA[Strawberry McCafé Shake (Large) 22 fl oz]]></item>
-        <item><![CDATA[Vanilla McCafé Shake (Medium) 16 fl oz]]></item>
-        <item><![CDATA[Vanilla McCafé Shake (Large) 22 fl oz]]></item>
-        <item><![CDATA[Shamrock McCafe® Shake (Medium) 16 fl oz cup]]></item>
-        <item><![CDATA[Shamrock McCafe® Shake (Large) 22 fl oz cup]]></item>
-        <item><![CDATA[Fried Cherry Pie 2.9 oz (81 g)]]></item>
-    </string-array>
-    <string-array name="dessertshake_details">
         <item><![CDATA[250;13;7;0;0;170;32;4;13;2;Baked Hot Apple Pie 2.7 oz (77 g)]]></item>
         <item><![CDATA[160;8;3.5;0;10;90;21;1;15;2;Chocolate Chip Cookie 1 cookie (33 g)]]></item>
         <item><![CDATA[150;6;2.5;0;10;135;22;1;13;2;Oatmeal Raisin Cookie 1 cookie (33 g)]]></item>
@@ -937,39 +440,6 @@
         <item><![CDATA[660;19;12;1;75;210;109;0;93;14;Shamrock McCafe® Shake (Medium) 16 fl oz cup]]></item>
         <item><![CDATA[820;23;15;1;90;260;135;0;115;18;Shamrock McCafe® Shake (Large) 22 fl oz cup]]></item>
         <item><![CDATA[230;10;3.5;0;0;135;33;1;15;2;Fried Cherry Pie 2.9 oz (81 g)]]></item>
-    </string-array>
-
-
-    <!-- Condiments -->
-    <string-array name="condiment">
-        <item><![CDATA[Grape Jam 0.5 oz (14 g)]]></item>
-        <item><![CDATA[Coffee Cream 0.4 fl oz (11 ml)]]></item>
-        <item><![CDATA[Strawberry Preserves 0.5 oz (14 g)]]></item>
-        <item><![CDATA[Sugar Packet 1 pkg (4 g)]]></item>
-        <item><![CDATA[EQUAL® ZERO Calorie Sweetener 1 pkg (1 g)]]></item>
-        <item><![CDATA[SPLENDA® No Calorie Sweetener 1 pkg (1 g)]]></item>
-        <item><![CDATA[Hot Habanero Sauce 22 oz (0 g)]]></item>
-        <item><![CDATA[Ketchup Packet 1 pkg (9 g)]]></item>
-        <item><![CDATA[Creamy Ranch Sauce 0.78 oz (22.134 g)]]></item>
-        <item><![CDATA[Newman\'s Own® Low Fat Sesame Ginger Dressing 1.5 fl oz (44 ml)]]></item>
-        <item><![CDATA[Spicy Buffalo Sauce 0.8 oz (22 g)]]></item>
-        <item><![CDATA[Newman\'s Own® Low Fat Balsamic Vinaigrette 1.5 fl oz (44 ml)]]></item>
-        <item><![CDATA[Newman\'s Own® Creamy Southwest Dressing 1.5 fl oz (44 ml)]]></item>
-        <item><![CDATA[Newman\'s Own® Low Fat Family Recipe Italian Dressing 1.5 fl oz (44 ml)]]></item>
-        <item><![CDATA[Salt Packet 1 pkg (0 g)]]></item>
-        <item><![CDATA[Honey 1 pkg (14 g)]]></item>
-        <item><![CDATA[Newman\'s Own® Ranch Dressing 2 fl oz (59 ml)]]></item>
-        <item><![CDATA[Sweet \'N Sour Sauce 1 pkg (28.4 g)]]></item>
-        <item><![CDATA[Hotcake Syrup 1 pkg (61 g)]]></item>
-        <item><![CDATA[Peanuts (for Sundaes) 0.3 oz (7 g)]]></item>
-        <item><![CDATA[Honey Mustard Sauce 0.8 oz (22 g)]]></item>
-        <item><![CDATA[Tangy Barbeque Sauce 1 pkg (28.35 g)]]></item>
-        <item><![CDATA[Buffalo Ranch McChicken 5.2 oz (148 g)]]></item>
-        <item><![CDATA[Whipped Margarine (1 pat) 1 pkg (6 g)]]></item>
-        <item><![CDATA[Tartar Sauce Cup 1 oz (28 g)]]></item>
-        <item><![CDATA[Marinara Sauce (Package) 0.8 oz (24 g)]]></item>
-    </string-array>
-    <string-array name="condiment_details">
         <item><![CDATA[35;0;0;0;0;0;9;0;9;0;Grape Jam 0.5 oz (14 g)]]></item>
         <item><![CDATA[20;2;1.5;0;10;15;0;0;0;0;Coffee Cream 0.4 fl oz (11 ml)]]></item>
         <item><![CDATA[35;0;0;0;0;0;9;0;9;0;Strawberry Preserves 0.5 oz (14 g)]]></item>
@@ -996,25 +466,6 @@
         <item><![CDATA[40;4.5;1.5;0;0;55;0;0;0;0;Whipped Margarine (1 pat) 1 pkg (6 g)]]></item>
         <item><![CDATA[140;15;2.5;0;10;150;0;0;0;0;Tartar Sauce Cup 1 oz (28 g)]]></item>
         <item><![CDATA[15;0;0;0;0;75;2;0;2;0;Marinara Sauce (Package) 0.8 oz (24 g)]]></item>
-    </string-array>
-
-
-    <!-- All Day Breakfast -->
-    <string-array name="alldaybreakfast">
-        <item><![CDATA[Fruit \'n Yogurt Parfait 5.2 oz (149 g)]]></item>
-        <item><![CDATA[Sausage McMuffin with Egg 5.7 oz (162 g)]]></item>
-        <item><![CDATA[Hotcakes and Sausage 6.7 oz (189 g)]]></item>
-        <item><![CDATA[Sausage Burrito 3.9 oz (111 g)]]></item>
-        <item><![CDATA[Egg McMuffin® 4.7 oz (134 g)]]></item>
-        <item><![CDATA[Bacon, Egg & Cheese Biscuit (Regular Size Biscuit) 5.2 oz (147 g)]]></item>
-        <item><![CDATA[Sausage Biscuit (Regular Size Biscuit) 4.1 oz (117 g)]]></item>
-        <item><![CDATA[Sausage Biscuit with Egg (Regular Size Biscuit) 5.8 oz (164 g)]]></item>
-        <item><![CDATA[Hotcakes 5.1 oz (144 g)]]></item>
-        <item><![CDATA[HASH BROWNS 2 oz (56 g)]]></item>
-        <item><![CDATA[Fruit & Maple Oatmeal 8.9 oz (251 g)]]></item>
-        <item><![CDATA[Sausage McMuffin 4 oz (114 g)]]></item>
-    </string-array>
-    <string-array name="alldaybreakfast_details">
         <item><![CDATA[150;2;1;0;5;80;30;1;23;4;Fruit \'n Yogurt Parfait 5.2 oz (149 g)]]></item>
         <item><![CDATA[470;30;12;0;275;830;29;1;2;21;Sausage McMuffin with Egg 5.7 oz (162 g)]]></item>
         <item><![CDATA[510;25;8;0;55;830;55;2;13;15;Hotcakes and Sausage 6.7 oz (189 g)]]></item>

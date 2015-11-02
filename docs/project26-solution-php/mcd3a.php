@@ -45,7 +45,7 @@ $oufile_json = "mcd.json";
 $oufile_json_pretty = "mcd-pretty.json";
 
 // Android XML resource should use underscores (_) instead of dashes (-)
-$oufile_xml_nocat = "mcd_string_array.xml";
+$oufile_xml_single = "arrays_mcd_single.xml";
 $oufile_xml = "arrays_mcd.xml";
 
 // data
@@ -119,8 +119,9 @@ foreach($cats as $catno => $category) {
     $itemstag = strtolower($cat_tag);
     $detailstag = $itemstag . "_details";
 
-    $output_xml_cat['category'][$cat_tag]['items'][] = $xml_name;
-    $output_xml_cat['category'][$cat_tag]['details'][] = $xml_details;
+    $output_xml_cat['category'][$cat_tag]['items'][] = addslashes($xml_name);
+    $output_xml_cat['category'][$cat_tag]['details'][] = addslashes($xml_details);
+
     $output_xml_cat['category'][$cat_tag]['items_name'] = $itemstag;
     $output_xml_cat['category'][$cat_tag]['details_name'] = $detailstag;
 
@@ -136,16 +137,19 @@ foreach($cats as $catno => $category) {
 
 ## FINSHING
 
-// puts categoriezed Android XML string-array into an outfile
+// puts categorized data in Android XML resource file
 file_put_contents($oufile_xml, export_xml($output_xml_cat));
+
+// puts un-categorized data into a single string-array in Android XML
+file_put_contents($oufile_xml_single, export_xml_single($output_xml_cat));
 
 // puts categorized TSV data into an outfile
 file_put_contents($oufile_tsv, export_tsv($output_tsv_arr, $tsv_headers));
 
-// puts JSON into an outfile
+// puts categorized JSON into an outfile
 file_put_contents($oufile_json, export_json($output_json_arr));
 
-// puts pretty JSON into an outfile
+// puts categorized (pretty) JSON into an outfile
 file_put_contents($oufile_json_pretty, export_json($output_json_arr, true));
 
 exit();
@@ -251,6 +255,27 @@ function json_item($item, $cat) {
       'CATEGORY' => $cat
     );
 }
+
+// exports xml_cat data to a single string array in Android XML
+function export_xml_single($xmldata) {
+
+  $output_xml[] = android_xml_start();
+  $output_xml[] = android_xml_comments("McDonalds Nutrition Facts");
+  $output_xml[] = android_xml_stringarray_start("mcdonalds_nutrition");
+
+  foreach($xmldata['category'] as $cat) {
+
+    // just the facts
+    $output_xml[] = join(PHP_EOL, array_map('android_xml_cdata',
+      $cat['details']));
+  }
+
+  $output_xml[] = android_xml_stringarray_end();
+  $output_xml[] = android_xml_end();
+
+  return join(PHP_EOL, $output_xml);
+}
+
 
 // exports xml_cat data to Android XML resource file format
 function export_xml($xmldata) {
