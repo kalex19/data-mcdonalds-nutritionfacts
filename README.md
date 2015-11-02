@@ -11,7 +11,7 @@
 
 ## DATA FORMATS
 
-### VERSION 26
+### [VERSION 26][gh_stable] (STABLE)
 
   + November 2015 Refresh.
   + Source data from October 29, 2015.
@@ -28,7 +28,7 @@
     + Very portable and processed by most modern languages.
 
 
-### [VERSION 23][gh_stable] (STABLE)
+### VERSION 23
 
   + November 2015 Refresh.
   + Source data from October 29, 2015.
@@ -54,7 +54,7 @@
 
 ### VERSION 22 (pre-release)
 
-  + Source data from [latest stable version][gh_stable].
+  + Source data from October 29, 2015.
   + Partial ETL solution available for this release.
   + No item categories for this release.
   + [Textfiles][gh_textfiles]
@@ -108,7 +108,7 @@
 
   + Oracle, MariaDB, SQLite, SQL Server
 
-## MCDONALDS MENU STRUCTURE
+### MCDONALDS MENU STRUCTURE
 
   + McDonald's is a quick service restaurant concept designed to provide a fast,
   convenient and rewarding guest experience.
@@ -127,21 +127,21 @@
 
 **This project is neither endorsed by nor affliated with any McDonald's®,  McDonald's® stores, McDonald's Corporation, McDonald's franchisees or any other affliated brands or entities. Nutrition information is subject to change without prior notice. Please contact McDonald's® for the latest information.**
 
-[gh_stable]: https://github.com/pffy/data-mcdonalds-nutrition-facts/releases/latest
-[web_mcdpdf]: http://nutrition.mcdonalds.com/getnutrition/nutritionfacts.pdf
-[markdownstore]: https://chrome.google.com/webstore/detail/markdowntablemaker/cofkbgfmijanlcdooemafafokhhaeold
 
 
-[gh_json]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/master/json
-[gh_xml]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/master/xml
+
+[g_sheets]: https://www.google.com/sheets/about/index.html
 [gh_docs]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/master/docs
+[gh_json]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/master/json
+[gh_sql]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/master/sql
+[gh_stable]: https://github.com/pffy/data-mcdonalds-nutrition-facts/releases/latest
 [gh_textfiles]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/master/textfiles
 [gh_workbooks]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/master/workbooks
-
-[web_json]: http://www.json.org/
-[g_sheets]: https://www.google.com/sheets/about/index.html
-[z_sheets]: https://www.zoho.com/docs/sheet.html
-[web_libre]: https://www.libreoffice.org/download/libreoffice-fresh/
-[gh_sql]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/master/sql
+[gh_xml]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/master/xml
+[markdownstore]: https://chrome.google.com/webstore/detail/markdowntablemaker/cofkbgfmijanlcdooemafafokhhaeold
 [ms_excel]: https://products.office.com/en-us/excel
+[web_json]: http://www.json.org/
+[web_libre]: https://www.libreoffice.org/download/libreoffice-fresh/
+[web_mcdpdf]: http://nutrition.mcdonalds.com/getnutrition/nutritionfacts.pdf
 [wiki_etl]: https://en.wikipedia.org/wiki/Extract,_transform,_load
+[z_sheets]: https://www.zoho.com/docs/sheet.html
