@@ -1,3 +1,3 @@
-# SQLITE
+# SQL
 
-  + No SQLite for this release.
+  + No SQL files for this release.
