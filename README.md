@@ -11,7 +11,15 @@
 
 ## DATA FORMATS
 
+#### [VERSION 28][v28] (STABLE)
 
+  + November 2015 Refresh.
+  + Source data from November 5, 2015.
+  + Formats Available:
+    + Textfiles
+    + Spreadsheet Workbooks
+    + Android XML
+    + JSON
 
 #### [VERSION 26][v26] (STABLE)
 
@@ -24,14 +32,14 @@
     + Android XML
     + JSON
 
-#### [VERSION 23][v23]
+#### [VERSION 23][v23] (STABLE)
 
   + November 2015 Refresh.
   + Source data from October 29, 2015.
-  + [View ETL Solution][gh_docs].
-  + [Textfiles][gh_textfiles]
-  + [Spreadsheet Workbooks][gh_workbooks]
   + New Menu Category Structure
+  + Formats Available:
+    + Textfiles
+    + Spreadsheet Workbooks
 
 > NOTE: Table generated in Google Spreadsheets with the [MarkdownTableMaker Add-On][markdownstore].
 
@@ -60,7 +68,7 @@
   + No ETL solution available for this release.
   + No item categories for this release.
 
-#### VERSION 3
+#### [VERSION 3][v3]
 
 + Data from May 2015.
 + 412 menu items processed.
@@ -127,6 +135,7 @@
 
 **This project is neither endorsed by nor affliated with any McDonald's®,  McDonald's® stores, McDonald's Corporation, McDonald's franchisees or any other affliated brands or entities. Nutrition information is subject to change without prior notice. Please contact McDonald's® for the latest information.**
 
+[v3]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v3
 [v23]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v23
 [v26]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v26
 [v28]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v28
