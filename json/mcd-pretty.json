@@ -6045,7 +6045,7 @@
         "SGR": "13",
         "PRO": "3",
         "ITEM": "Sweet Potato and Creme Pie 2.8 oz (78 g)",
-        "CATEGORY": "CONDIMENT"
+        "CATEGORY": "DESSERTSHAKE"
     },
     {
         "CAL": "270",
@@ -6059,7 +6059,7 @@
         "SGR": "12",
         "PRO": "3",
         "ITEM": "Pumpkin and Creme Pie 2.7 oz (77 g)",
-        "CATEGORY": "CONDIMENT"
+        "CATEGORY": "DESSERTSHAKE"
     },
     {
         "CAL": "35",
@@ -6409,7 +6409,7 @@
         "SGR": "0",
         "PRO": "0",
         "ITEM": "Tartar Sauce Cup 1 oz (28 g)",
-        "CATEGORY": "ALLDAYBREAKFAST"
+        "CATEGORY": "CONDIMENT"
     },
     {
         "CAL": "15",
@@ -6423,7 +6423,7 @@
         "SGR": "2",
         "PRO": "0",
         "ITEM": "Marinara Sauce (Package) 0.8 oz (24 g)",
-        "CATEGORY": "ALLDAYBREAKFAST"
+        "CATEGORY": "CONDIMENT"
     },
     {
         "CAL": "150",
@@ -6563,6 +6563,34 @@
         "SGR": "0",
         "PRO": "1",
         "ITEM": "HASH BROWNS 2 oz (56 g)",
+        "CATEGORY": "ALLDAYBREAKFAST"
+    },
+    {
+        "CAL": "290",
+        "FAT": "4",
+        "SFAT": "1.5",
+        "TFAT": "0",
+        "CHOL": "5",
+        "SALT": "160",
+        "CARB": "58",
+        "FBR": "5",
+        "SGR": "32",
+        "PRO": "5",
+        "ITEM": "Fruit & Maple Oatmeal 8.9 oz (251 g)",
+        "CATEGORY": "ALLDAYBREAKFAST"
+    },
+    {
+        "CAL": "400",
+        "FAT": "25",
+        "SFAT": "10",
+        "TFAT": "0",
+        "CHOL": "60",
+        "SALT": "750",
+        "CARB": "28",
+        "FBR": "1",
+        "SGR": "2",
+        "PRO": "14",
+        "ITEM": "Sausage McMuffin 4 oz (114 g)",
         "CATEGORY": "ALLDAYBREAKFAST"
     }
 ]
