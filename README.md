@@ -13,24 +13,18 @@
 
 
 
-### [VERSION 26][gh_v26] (STABLE)
+#### [VERSION 26][v26] (STABLE)
 
   + November 2015 Refresh.
   + Source data from October 29, 2015.
   + Uses new menu structure introduced by addition of **All Day Breakfast** menu.
-  + [Project 26 ETL Solution][gh_docs] adds automatic addition of categories to TSV, JSON or XML export files.
-  + [Textfiles][gh_textfiles]
-  + [Spreadsheet Workbooks][gh_workbooks]
-  + [Android XML][gh_xml]
-    + Provides a safe, portable data format for Android apps.
-    + Does not require special permissions for read access.
-  + [JSON][gh_json]
-    + Stable, serialized data transport.
-    + JSON: [JavaScript Object Notation][web_json].
-    + Very portable and processed by most modern languages.
+  + Formats Available:
+    + Textfiles
+    + Spreadsheet Workbooks
+    + Android XML
+    + JSON
 
-
-### VERSION 23
+#### [VERSION 23][v23]
 
   + November 2015 Refresh.
   + Source data from October 29, 2015.
@@ -54,56 +48,32 @@
 |  Condiments | `CONDIMENT` |
 |  All Day Breakfast | `ALLDAYBREAKFAST` |
 
-### VERSION 22 (pre-release)
+#### VERSION 22 (pre-release)
 
   + Source data from October 29, 2015.
   + Partial ETL solution available for this release.
   + No item categories for this release.
-  + [Textfiles][gh_textfiles]
-  + [Spreadsheet Workbooks][gh_workbooks]
 
-
-### VERSION 21 (pre-release)
+#### VERSION 21 (pre-release)
 
   + Source data from October 13, 2015.
   + No ETL solution available for this release.
   + No item categories for this release.
-  + [Textfiles][gh_textfiles]
-  + [Spreadsheet Workbooks][gh_workbooks]
 
-
-### VERSION 3
+#### VERSION 3
 
 + Data from May 2015.
 + 412 menu items processed.
-+ [Textfiles][gh_textfiles]
-+ [Spreadsheet Workbooks][gh_workbooks]
-+ [View ETL Solution][gh_docs].
 
-
-### VERSION 2
+#### VERSION 2
 
 + Data from March 2015.
 + 433 menu items processed.
-+ [Textfiles][gh_textfiles]
-  + Most compatible format.
-  + TSV: tab-separated value files.
-  + Nicely-formatted on GitHub. You can even search within the file on GitHub.
-+ [Spreadsheet Workbooks][gh_workbooks]
-  + You can import XLSX or ODS spreadsheets into [Google Drive Sheets][g_sheets].
-  + You can also import the spreadsheets into [Zoho Docs Spreadsheets][z_sheets].
-  + Open XLSX in [Microsoft Excel][ms_excel].
-  + Open ODS in [LibreOffice][web_libre].
-+ [SQLite Database][gh_sql]
-  + Flexible, self-containted, serverless, zero-config, transactional [SQL database engine](http://www.sqlite.org/).
-+ [View ETL Solution][gh_docs].
 
-
-### VERSION 1
+#### VERSION 1
 
 + Data from June 2014.
 + 393 menu items processed.
-+ [View ETL Solution][gh_docs].
 
 
 ### POSSIBLE FORMATS
@@ -119,7 +89,35 @@
   items for breakfast, lunch and dinner. **Many locations are open 24 hours.**
 
   + Some menu items are in more than one category.
-  
+
+## FORMATS
+
+#### Android XML
+  + Provides a safe, portable data format for Android apps.
+  + Does not require special permissions for read access.
+
+#### JSON
+  + Stable, serialized data transport.
+  + JSON: [JavaScript Object Notation][web_json].
+  + Very portable and processed by most modern languages.
+
+#### SQLITE
+  + Flexible, self-containted, serverless, zero-config, transactional [SQL database engine][web_sqlite].
+
+#### TEXTFILES
+  + Most compatible format.
+  + TSV: tab-separated value files.
+  + CSV: comma-separated value files.
+  + Nicely-formatted on GitHub. You can even search within the file on GitHub.
+
+#### WORKBOOKS
+  + Spreadsheet workbooks organize data into a single file.
+  + Spreadsheets usually require viewers or editors.
+  + You can import XLSX or ODS spreadsheets into [Google Drive Sheets][g_sheets].
+  + You can also import the spreadsheets into [Zoho Docs Spreadsheets][z_sheets].
+  + Open XLSX in [Microsoft Excel][ms_excel].
+  + Open ODS in [LibreOffice][web_libre].
+
 
 ## REFERENCE
 
@@ -129,12 +127,12 @@
 
 **This project is neither endorsed by nor affliated with any McDonald's®,  McDonald's® stores, McDonald's Corporation, McDonald's franchisees or any other affliated brands or entities. Nutrition information is subject to change without prior notice. Please contact McDonald's® for the latest information.**
 
-
-
+[v23]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v23
 [v26]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v26
 [v28]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v28
 [gh_stable]: https://github.com/pffy/data-mcdonalds-nutrition-facts/releases/latest
 
+[web_sqlite]: https://sqlite.org/
 [g_sheets]: https://www.google.com/sheets/about/index.html
 [gh_docs]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/master/docs
 [gh_json]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/master/json
