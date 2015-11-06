@@ -1900,7 +1900,7 @@
         "FBR": "2",
         "SGR": "42",
         "PRO": "10",
-        "ITEM": "McCaf\u00e9 Mocha (Small) 12 fl oz cup",
+        "ITEM": "Mocha (Small) 12 fl oz cup",
         "CATEGORY": "BEVERAGE"
     },
     {
@@ -1928,7 +1928,7 @@
         "FBR": "1",
         "SGR": "77",
         "PRO": "12",
-        "ITEM": "Chocolate McCaf\u00e9 Shake (Small) 12 fl oz",
+        "ITEM": "Chocolate Shake (Small) 12 fl oz",
         "CATEGORY": "BEVERAGE"
     },
     {
@@ -1942,7 +1942,7 @@
         "FBR": "0",
         "SGR": "63",
         "PRO": "11",
-        "ITEM": "Vanilla McCaf\u00e9 Shake (Small) 12 fl oz",
+        "ITEM": "Vanilla McCafe Shake (Small) 12 fl oz",
         "CATEGORY": "BEVERAGE"
     },
     {
@@ -1956,7 +1956,7 @@
         "FBR": "0",
         "SGR": "79",
         "PRO": "12",
-        "ITEM": "Strawberry McCaf\u00e9 Shake (Small) 12 fl oz",
+        "ITEM": "Strawberry Shake (Small) 12 fl oz",
         "CATEGORY": "BEVERAGE"
     },
     {
@@ -1998,7 +1998,7 @@
         "FBR": "1",
         "SGR": "40",
         "PRO": "10",
-        "ITEM": "McCaf\u00e9 Caramel Mocha (Small) 12 fl oz cup",
+        "ITEM": "Caramel Mocha (Small) 12 fl oz cup",
         "CATEGORY": "BEVERAGE"
     },
     {
@@ -2096,7 +2096,7 @@
         "FBR": "1",
         "SGR": "45",
         "PRO": "11",
-        "ITEM": "McCaf\u00e9 Hot Chocolate (Small) 12 fl oz cup",
+        "ITEM": "Hot Chocolate (Small) 12 fl oz cup",
         "CATEGORY": "BEVERAGE"
     },
     {
@@ -2124,7 +2124,7 @@
         "FBR": "1",
         "SGR": "12",
         "PRO": "9",
-        "ITEM": "McCaf\u00e9 Latte (Small) 12 fl oz cup",
+        "ITEM": "Latte (Small) 12 fl oz cup",
         "CATEGORY": "BEVERAGE"
     },
     {
@@ -2152,7 +2152,7 @@
         "FBR": "1",
         "SGR": "34",
         "PRO": "8",
-        "ITEM": "McCaf\u00e9 Iced Mocha (Small) 12 fl oz cup",
+        "ITEM": "Iced Mocha (Small) 12 fl oz cup",
         "CATEGORY": "BEVERAGE"
     },
     {
@@ -2166,7 +2166,7 @@
         "FBR": "0",
         "SGR": "32",
         "PRO": "8",
-        "ITEM": "McCaf\u00e9 Iced Caramel Mocha (Small) 12 fl oz cup",
+        "ITEM": "Iced Caramel Mocha (Small) 12 fl oz cup",
         "CATEGORY": "BEVERAGE"
     },
     {
@@ -2180,7 +2180,7 @@
         "FBR": "1",
         "SGR": "43",
         "PRO": "11",
-        "ITEM": "McCaf\u00e9 White Chocolate Mocha (Small) 12 fl oz cup",
+        "ITEM": "White Chocolate Mocha (Small) 12 fl oz cup",
         "CATEGORY": "BEVERAGE"
     },
     {
@@ -3034,7 +3034,7 @@
         "FBR": "0",
         "SGR": "46",
         "PRO": "12",
-        "ITEM": "McCaf\u00e9 White Hot Chocolate (Small) 13.3 oz (376 g)",
+        "ITEM": "White Hot Chocolate (Small) 13.3 oz (376 g)",
         "CATEGORY": "BEVERAGE"
     },
     {
@@ -3048,7 +3048,7 @@
         "FBR": "0",
         "SGR": "57",
         "PRO": "14",
-        "ITEM": "McCaf\u00e9 White Hot Chocolate (Medium) 16.3 oz (463 g)",
+        "ITEM": "White Hot Chocolate (Medium) 16.3 oz (463 g)",
         "CATEGORY": "BEVERAGE"
     },
     {
@@ -3062,7 +3062,7 @@
         "FBR": "0",
         "SGR": "69",
         "PRO": "18",
-        "ITEM": "McCaf\u00e9 White Hot Chocolate (Large) 20.8 oz (589 g)",
+        "ITEM": "White Hot Chocolate (Large) 20.8 oz (589 g)",
         "CATEGORY": "BEVERAGE"
     },
     {
@@ -3622,7 +3622,7 @@
         "FBR": "2",
         "SGR": "42",
         "PRO": "10",
-        "ITEM": "McCaf\u00e9 Mocha (Small) 12 fl oz cup",
+        "ITEM": "McCafe Mocha (Small) 12 fl oz cup",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -3650,7 +3650,7 @@
         "FBR": "2",
         "SGR": "97",
         "PRO": "15",
-        "ITEM": "Chocolate McCaf\u00e9 Shake (Medium) 16 fl oz",
+        "ITEM": "Chocolate Shake (Medium) 16 fl oz",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -3664,7 +3664,7 @@
         "FBR": "2",
         "SGR": "120",
         "PRO": "19",
-        "ITEM": "Chocolate McCaf\u00e9 Shake (Large) 22 fl oz",
+        "ITEM": "Chocolate Shake (Large) 22 fl oz",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -3678,7 +3678,7 @@
         "FBR": "1",
         "SGR": "77",
         "PRO": "12",
-        "ITEM": "Chocolate McCaf\u00e9 Shake (Small) 12 fl oz",
+        "ITEM": "Chocolate Shake (Small) 12 fl oz",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -3692,7 +3692,7 @@
         "FBR": "0",
         "SGR": "63",
         "PRO": "11",
-        "ITEM": "Vanilla McCaf\u00e9 Shake (Small) 12 fl oz",
+        "ITEM": "Vanilla McCafe Shake (Small) 12 fl oz",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -3706,7 +3706,7 @@
         "FBR": "0",
         "SGR": "79",
         "PRO": "12",
-        "ITEM": "Strawberry McCaf\u00e9 Shake (Small) 12 fl oz",
+        "ITEM": "Strawberry Shake (Small) 12 fl oz",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -3748,7 +3748,7 @@
         "FBR": "1",
         "SGR": "40",
         "PRO": "10",
-        "ITEM": "McCaf\u00e9 Caramel Mocha (Small) 12 fl oz cup",
+        "ITEM": "Caramel Mocha (Small) 12 fl oz cup",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -3846,7 +3846,7 @@
         "FBR": "1",
         "SGR": "45",
         "PRO": "11",
-        "ITEM": "McCaf\u00e9 Hot Chocolate (Small) 12 fl oz cup",
+        "ITEM": "Hot Chocolate (Small) 12 fl oz cup",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -3860,7 +3860,7 @@
         "FBR": "1",
         "SGR": "12",
         "PRO": "9",
-        "ITEM": "McCaf\u00e9 Latte (Small) 12 fl oz cup",
+        "ITEM": "Latte (Small) 12 fl oz cup",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -3888,7 +3888,7 @@
         "FBR": "1",
         "SGR": "34",
         "PRO": "8",
-        "ITEM": "McCaf\u00e9 Iced Mocha (Small) 12 fl oz cup",
+        "ITEM": "Iced Mocha (Small) 12 fl oz cup",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -3902,7 +3902,7 @@
         "FBR": "1",
         "SGR": "53",
         "PRO": "13",
-        "ITEM": "McCaf\u00e9 White Chocolate Mocha (Medium) 16 fl oz cup",
+        "ITEM": "White Chocolate Mocha (Medium) 16 fl oz cup",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -3916,7 +3916,7 @@
         "FBR": "0",
         "SGR": "32",
         "PRO": "8",
-        "ITEM": "McCaf\u00e9 Iced Caramel Mocha (Small) 12 fl oz cup",
+        "ITEM": "Iced Caramel Mocha (Small) 12 fl oz cup",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -3930,7 +3930,7 @@
         "FBR": "1",
         "SGR": "20",
         "PRO": "15",
-        "ITEM": "McCaf\u00e9 Latte (Large) 20 fl oz cup",
+        "ITEM": "Latte (Large) 20 fl oz cup",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -3944,7 +3944,7 @@
         "FBR": "1",
         "SGR": "56",
         "PRO": "14",
-        "ITEM": "McCaf\u00e9 Hot Chocolate (Medium) 16 fl oz cup",
+        "ITEM": "Hot Chocolate (Medium) 16 fl oz cup",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -3972,7 +3972,7 @@
         "FBR": "1",
         "SGR": "65",
         "PRO": "17",
-        "ITEM": "McCaf\u00e9 White Chocolate Mocha (Large) 20 fl oz cup",
+        "ITEM": "White Chocolate Mocha (Large) 20 fl oz cup",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -3986,7 +3986,7 @@
         "FBR": "1",
         "SGR": "15",
         "PRO": "11",
-        "ITEM": "McCaf\u00e9 Latte (Medium) 16 fl oz cup",
+        "ITEM": "Latte (Medium) 16 fl oz cup",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -4000,7 +4000,7 @@
         "FBR": "1",
         "SGR": "43",
         "PRO": "11",
-        "ITEM": "McCaf\u00e9 White Chocolate Mocha (Small) 12 fl oz cup",
+        "ITEM": "White Chocolate Mocha (Small) 12 fl oz cup",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -4210,7 +4210,7 @@
         "FBR": "1",
         "SGR": "50",
         "PRO": "12",
-        "ITEM": "McCaf\u00e9 Caramel Mocha (Medium) 16 fl oz cup",
+        "ITEM": "Caramel Mocha (Medium) 16 fl oz cup",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -4224,7 +4224,7 @@
         "FBR": "1",
         "SGR": "60",
         "PRO": "16",
-        "ITEM": "McCaf\u00e9 Caramel Mocha (Large) 20 fl oz cup",
+        "ITEM": "Caramel Mocha (Large) 20 fl oz cup",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -4840,7 +4840,7 @@
         "FBR": "0",
         "SGR": "100",
         "PRO": "15",
-        "ITEM": "Strawberry McCaf\u00e9 Shake (Medium) 16 fl oz",
+        "ITEM": "Strawberry Shake (Medium) 16 fl oz",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -4854,7 +4854,7 @@
         "FBR": "0",
         "SGR": "123",
         "PRO": "18",
-        "ITEM": "Strawberry McCaf\u00e9 Shake (Large) 22 fl oz",
+        "ITEM": "Strawberry Shake (Large) 22 fl oz",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -4868,7 +4868,7 @@
         "FBR": "0",
         "SGR": "81",
         "PRO": "14",
-        "ITEM": "Vanilla McCaf\u00e9 Shake (Medium) 16 fl oz",
+        "ITEM": "Vanilla McCafe Shake (Medium) 16 fl oz",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -4882,7 +4882,7 @@
         "FBR": "0",
         "SGR": "101",
         "PRO": "18",
-        "ITEM": "Vanilla McCaf\u00e9 Shake (Large) 22 fl oz",
+        "ITEM": "Vanilla McCafe Shake (Large) 22 fl oz",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -4924,7 +4924,7 @@
         "FBR": "1",
         "SGR": "68",
         "PRO": "17",
-        "ITEM": "McCaf\u00e9 Hot Chocolate (Large) 20 fl oz cup",
+        "ITEM": "Hot Chocolate (Large) 20 fl oz cup",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -4994,7 +4994,7 @@
         "FBR": "2",
         "SGR": "61",
         "PRO": "13",
-        "ITEM": "McCaf\u00e9 Iced Mocha (Large) 22 fl oz cup",
+        "ITEM": "Iced Mocha (Large) 22 fl oz cup",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -5008,7 +5008,7 @@
         "FBR": "1",
         "SGR": "43",
         "PRO": "9",
-        "ITEM": "McCaf\u00e9 Iced Mocha (Medium) 16 fl oz cup",
+        "ITEM": "Iced Mocha (Medium) 16 fl oz cup",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -5022,7 +5022,7 @@
         "FBR": "1",
         "SGR": "41",
         "PRO": "9",
-        "ITEM": "McCaf\u00e9 Iced Caramel Mocha (Medium) 16 fl oz cup",
+        "ITEM": "Iced Caramel Mocha (Medium) 16 fl oz cup",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -5036,7 +5036,7 @@
         "FBR": "1",
         "SGR": "58",
         "PRO": "13",
-        "ITEM": "McCaf\u00e9 Iced Caramel Mocha (Large) 22 fl oz cup",
+        "ITEM": "Iced Caramel Mocha (Large) 22 fl oz cup",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -5232,7 +5232,7 @@
         "FBR": "2",
         "SGR": "63",
         "PRO": "16",
-        "ITEM": "McCaf\u00e9 Mocha (Large) 20 fl oz cup",
+        "ITEM": "Mocha (Large) 20 fl oz cup",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -5246,7 +5246,7 @@
         "FBR": "2",
         "SGR": "53",
         "PRO": "13",
-        "ITEM": "McCaf\u00e9 Mocha (Medium) 16 fl oz cup",
+        "ITEM": "Mocha (Medium) 16 fl oz cup",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -5554,7 +5554,7 @@
         "FBR": "0",
         "SGR": "46",
         "PRO": "12",
-        "ITEM": "McCaf\u00e9 White Hot Chocolate (Small) 13.3 oz (376 g)",
+        "ITEM": "White Hot Chocolate (Small) 13.3 oz (376 g)",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -5568,7 +5568,7 @@
         "FBR": "0",
         "SGR": "57",
         "PRO": "14",
-        "ITEM": "McCaf\u00e9 White Hot Chocolate (Medium) 16.3 oz (463 g)",
+        "ITEM": "White Hot Chocolate (Medium) 16.3 oz (463 g)",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -5582,7 +5582,7 @@
         "FBR": "0",
         "SGR": "69",
         "PRO": "18",
-        "ITEM": "McCaf\u00e9 White Hot Chocolate (Large) 20.8 oz (589 g)",
+        "ITEM": "White Hot Chocolate (Large) 20.8 oz (589 g)",
         "CATEGORY": "MCCAFE"
     },
     {
@@ -5722,7 +5722,7 @@
         "FBR": "2",
         "SGR": "97",
         "PRO": "15",
-        "ITEM": "Chocolate McCaf\u00e9 Shake (Medium) 16 fl oz",
+        "ITEM": "Chocolate Shake (Medium) 16 fl oz",
         "CATEGORY": "DESSERTSHAKE"
     },
     {
@@ -5736,7 +5736,7 @@
         "FBR": "2",
         "SGR": "120",
         "PRO": "19",
-        "ITEM": "Chocolate McCaf\u00e9 Shake (Large) 22 fl oz",
+        "ITEM": "Chocolate Shake (Large) 22 fl oz",
         "CATEGORY": "DESSERTSHAKE"
     },
     {
@@ -5848,7 +5848,7 @@
         "FBR": "1",
         "SGR": "77",
         "PRO": "12",
-        "ITEM": "Chocolate McCaf\u00e9 Shake (Small) 12 fl oz",
+        "ITEM": "Chocolate Shake (Small) 12 fl oz",
         "CATEGORY": "DESSERTSHAKE"
     },
     {
@@ -5862,7 +5862,7 @@
         "FBR": "0",
         "SGR": "63",
         "PRO": "11",
-        "ITEM": "Vanilla McCaf\u00e9 Shake (Small) 12 fl oz",
+        "ITEM": "Vanilla McCafe Shake (Small) 12 fl oz",
         "CATEGORY": "DESSERTSHAKE"
     },
     {
@@ -5876,7 +5876,7 @@
         "FBR": "0",
         "SGR": "79",
         "PRO": "12",
-        "ITEM": "Strawberry McCaf\u00e9 Shake (Small) 12 fl oz",
+        "ITEM": "Strawberry Shake (Small) 12 fl oz",
         "CATEGORY": "DESSERTSHAKE"
     },
     {
@@ -5946,7 +5946,7 @@
         "FBR": "0",
         "SGR": "100",
         "PRO": "15",
-        "ITEM": "Strawberry McCaf\u00e9 Shake (Medium) 16 fl oz",
+        "ITEM": "Strawberry Shake (Medium) 16 fl oz",
         "CATEGORY": "DESSERTSHAKE"
     },
     {
@@ -5960,7 +5960,7 @@
         "FBR": "0",
         "SGR": "123",
         "PRO": "18",
-        "ITEM": "Strawberry McCaf\u00e9 Shake (Large) 22 fl oz",
+        "ITEM": "Strawberry Shake (Large) 22 fl oz",
         "CATEGORY": "DESSERTSHAKE"
     },
     {
@@ -5974,7 +5974,7 @@
         "FBR": "0",
         "SGR": "81",
         "PRO": "14",
-        "ITEM": "Vanilla McCaf\u00e9 Shake (Medium) 16 fl oz",
+        "ITEM": "Vanilla McCafe Shake (Medium) 16 fl oz",
         "CATEGORY": "DESSERTSHAKE"
     },
     {
@@ -5988,7 +5988,7 @@
         "FBR": "0",
         "SGR": "101",
         "PRO": "18",
-        "ITEM": "Vanilla McCaf\u00e9 Shake (Large) 22 fl oz",
+        "ITEM": "Vanilla McCafe Shake (Large) 22 fl oz",
         "CATEGORY": "DESSERTSHAKE"
     },
     {
@@ -6032,6 +6032,34 @@
         "PRO": "2",
         "ITEM": "Fried Cherry Pie 2.9 oz (81 g)",
         "CATEGORY": "DESSERTSHAKE"
+    },
+    {
+        "CAL": "290",
+        "FAT": "15",
+        "SFAT": "9",
+        "TFAT": "0",
+        "CHOL": "15",
+        "SALT": "170",
+        "CARB": "34",
+        "FBR": "2",
+        "SGR": "13",
+        "PRO": "3",
+        "ITEM": "Sweet Potato and Creme Pie 2.8 oz (78 g)",
+        "CATEGORY": "CONDIMENT"
+    },
+    {
+        "CAL": "270",
+        "FAT": "15",
+        "SFAT": "8",
+        "TFAT": "0",
+        "CHOL": "10",
+        "SALT": "160",
+        "CARB": "32",
+        "FBR": "2",
+        "SGR": "12",
+        "PRO": "3",
+        "ITEM": "Pumpkin and Creme Pie 2.7 oz (77 g)",
+        "CATEGORY": "CONDIMENT"
     },
     {
         "CAL": "35",
@@ -6381,7 +6409,7 @@
         "SGR": "0",
         "PRO": "0",
         "ITEM": "Tartar Sauce Cup 1 oz (28 g)",
-        "CATEGORY": "CONDIMENT"
+        "CATEGORY": "ALLDAYBREAKFAST"
     },
     {
         "CAL": "15",
@@ -6395,7 +6423,7 @@
         "SGR": "2",
         "PRO": "0",
         "ITEM": "Marinara Sauce (Package) 0.8 oz (24 g)",
-        "CATEGORY": "CONDIMENT"
+        "CATEGORY": "ALLDAYBREAKFAST"
     },
     {
         "CAL": "150",
@@ -6535,34 +6563,6 @@
         "SGR": "0",
         "PRO": "1",
         "ITEM": "HASH BROWNS 2 oz (56 g)",
-        "CATEGORY": "ALLDAYBREAKFAST"
-    },
-    {
-        "CAL": "290",
-        "FAT": "4",
-        "SFAT": "1.5",
-        "TFAT": "0",
-        "CHOL": "5",
-        "SALT": "160",
-        "CARB": "58",
-        "FBR": "5",
-        "SGR": "32",
-        "PRO": "5",
-        "ITEM": "Fruit & Maple Oatmeal 8.9 oz (251 g)",
-        "CATEGORY": "ALLDAYBREAKFAST"
-    },
-    {
-        "CAL": "400",
-        "FAT": "25",
-        "SFAT": "10",
-        "TFAT": "0",
-        "CHOL": "60",
-        "SALT": "750",
-        "CARB": "28",
-        "FBR": "1",
-        "SGR": "2",
-        "PRO": "14",
-        "ITEM": "Sausage McMuffin 4 oz (114 g)",
         "CATEGORY": "ALLDAYBREAKFAST"
     }
 ]
