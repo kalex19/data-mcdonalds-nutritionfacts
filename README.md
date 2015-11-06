@@ -139,6 +139,7 @@
 [v23]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v23
 [v26]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v26
 [v28]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v28
+[v28]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v29
 [gh_stable]: https://github.com/pffy/data-mcdonalds-nutrition-facts/releases/latest
 
 [web_sqlite]: https://sqlite.org/
