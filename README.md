@@ -10,10 +10,9 @@
 + See [documentation][gh_docs] for ETL process details specific to this project.
 
 ## DATA FORMATS
+#### [VERSION 29][v29] (STABLE)
 
-#### [VERSION 28][v28] (STABLE)
-
-  + November 2015 Refresh.
+  + November 2015 Refresh (Update 3)
   + Source data from November 5, 2015.
   + Formats Available:
     + Textfiles
@@ -21,9 +20,10 @@
     + Android XML
     + JSON
 
+
 #### [VERSION 26][v26] (STABLE)
 
-  + November 2015 Refresh.
+  + November 2015 Refresh (Update 1).
   + Source data from October 29, 2015.
   + Uses new menu structure introduced by addition of **All Day Breakfast** menu.
   + Formats Available:
