@@ -11,7 +11,9 @@
 
 ## DATA FORMATS
 
-### [VERSION 26][gh_stable] (STABLE)
+
+
+### [VERSION 26][gh_v26] (STABLE)
 
   + November 2015 Refresh.
   + Source data from October 29, 2015.
@@ -129,12 +131,14 @@
 
 
 
+[v26]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v26
+[v28]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v28
+[gh_stable]: https://github.com/pffy/data-mcdonalds-nutrition-facts/releases/latest
 
 [g_sheets]: https://www.google.com/sheets/about/index.html
 [gh_docs]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/master/docs
 [gh_json]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/master/json
 [gh_sql]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/master/sql
-[gh_stable]: https://github.com/pffy/data-mcdonalds-nutrition-facts/releases/latest
 [gh_textfiles]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/master/textfiles
 [gh_workbooks]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/master/workbooks
 [gh_xml]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/master/xml
