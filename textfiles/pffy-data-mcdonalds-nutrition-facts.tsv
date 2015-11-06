@@ -430,8 +430,8 @@ Vanilla McCafe Shake (Large) 22 fl oz	820	23	15	1	90	260	135	0	101	18	DESSERTSHA
 Shamrock McCafe® Shake (Medium) 16 fl oz cup	660	19	12	1	75	210	109	0	93	14	DESSERTSHAKE
 Shamrock McCafe® Shake (Large) 22 fl oz cup	820	23	15	1	90	260	135	0	115	18	DESSERTSHAKE
 Fried Cherry Pie 2.9 oz (81 g)	230	10	3.5	0	0	135	33	1	15	2	DESSERTSHAKE
-Sweet Potato and Creme Pie 2.8 oz (78 g)	290	15	9	0	15	170	34	2	13	3	CONDIMENT
-Pumpkin and Creme Pie 2.7 oz (77 g)	270	15	8	0	10	160	32	2	12	3	CONDIMENT
+Sweet Potato and Creme Pie 2.8 oz (78 g)	290	15	9	0	15	170	34	2	13	3	DESSERTSHAKE
+Pumpkin and Creme Pie 2.7 oz (77 g)	270	15	8	0	10	160	32	2	12	3	DESSERTSHAKE
 Grape Jam 0.5 oz (14 g)	35	0	0	0	0	0	9	0	9	0	CONDIMENT
 Coffee Cream 0.4 fl oz (11 ml)	20	2	1.5	0	10	15	0	0	0	0	CONDIMENT
 Strawberry Preserves 0.5 oz (14 g)	35	0	0	0	0	0	9	0	9	0	CONDIMENT
@@ -456,8 +456,8 @@ Honey Mustard Sauce 0.8 oz (22 g)	60	4	0.5	0	5	115	6	1	5	0	CONDIMENT
 Tangy Barbeque Sauce 1 pkg (28.35 g)	50	0	0	0	0	260	12	0	10	0	CONDIMENT
 Buffalo Ranch McChicken 5.2 oz (148 g)	370	17	3.5	0	40	850	41	2	5	14	CONDIMENT
 Whipped Margarine (1 pat) 1 pkg (6 g)	40	4.5	1.5	0	0	55	0	0	0	0	CONDIMENT
-Tartar Sauce Cup 1 oz (28 g)	140	15	2.5	0	10	150	0	0	0	0	ALLDAYBREAKFAST
-Marinara Sauce (Package) 0.8 oz (24 g)	15	0	0	0	0	75	2	0	2	0	ALLDAYBREAKFAST
+Tartar Sauce Cup 1 oz (28 g)	140	15	2.5	0	10	150	0	0	0	0	CONDIMENT
+Marinara Sauce (Package) 0.8 oz (24 g)	15	0	0	0	0	75	2	0	2	0	CONDIMENT
 Fruit 'n Yogurt Parfait 5.2 oz (149 g)	150	2	1	0	5	80	30	1	23	4	ALLDAYBREAKFAST
 Sausage McMuffin with Egg 5.7 oz (162 g)	470	30	12	0	275	830	29	1	2	21	ALLDAYBREAKFAST
 Hotcakes and Sausage 6.7 oz (189 g)	510	25	8	0	55	830	55	2	13	15	ALLDAYBREAKFAST
@@ -468,3 +468,5 @@ Sausage Biscuit (Regular Size Biscuit) 4.1 oz (117 g)	440	30	12	0	40	1000	33	1	2
 Sausage Biscuit with Egg (Regular Size Biscuit) 5.8 oz (164 g)	520	35	14	0	235	1080	35	2	2	17	ALLDAYBREAKFAST
 Hotcakes 5.1 oz (144 g)	320	7	1.5	0	20	530	54	2	13	8	ALLDAYBREAKFAST
 HASH BROWNS 2 oz (56 g)	150	9	1.5	0	0	310	15	2	0	1	ALLDAYBREAKFAST
+Fruit & Maple Oatmeal 8.9 oz (251 g)	290	4	1.5	0	5	160	58	5	32	5	ALLDAYBREAKFAST
+Sausage McMuffin 4 oz (114 g)	400	25	10	0	60	750	28	1	2	14	ALLDAYBREAKFAST
