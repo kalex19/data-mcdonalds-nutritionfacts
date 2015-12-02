@@ -3,6 +3,7 @@
   + Free, libre and open source data set describing McDonald's Nutrition Facts.
   + Use the [latest stable release][gh_stable] for research.
   + November 2015 Refresh.
+  + Used in [CalorieCat for McDonalds][potato_storepage] app.
 
 ### PROJECT SCOPE
 
@@ -134,6 +135,8 @@
 ## DISCLAIMER
 
 **This project is neither endorsed by nor affliated with any McDonald's®,  McDonald's® stores, McDonald's Corporation, McDonald's franchisees or any other affliated brands or entities. Nutrition information is subject to change without prior notice. Please contact McDonald's® for the latest information.**
+
+[potato_storepage]: https://github.com/pffy/android-app-mcdonalds-nutritionfacts
 
 [v3]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v3
 [v23]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v23
