@@ -16,7 +16,9 @@
   + July 2018 Refresh.
   + Source data from July 6, 2018.
   + Formats Available:
-    + Textfiles ONLY
+    + Textfiles
+    + Workbooks
+    + PDFs (static documents)
 
 #### [VERSION 29][v29] (STABLE)
 
