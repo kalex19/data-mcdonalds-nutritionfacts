@@ -1,16 +1,23 @@
 # McDonalds Nutrition Facts
 
   + Free, libre and open source data set describing McDonald's Nutrition Facts.
-  + Use the [latest stable release][gh_stable] for research.
-  + November 2015 Refresh.
-  + Used in [CalorieCat for McDonalds][potato_storepage] app.
+  + Please use the [latest stable release][gh_stable] for research.
+  + This data is used in many apps, platforms and popular search engines. No idea why.
 
 ### PROJECT SCOPE
 
 + This project only demonstrates [extraction, transformation and loading][wiki_etl] of McDonald's Nutrition Facts data.
 + See [documentation][gh_docs] for ETL process details specific to this project.
 
-## DATA FORMATS
+# DATA FORMATS
+
+#### [VERSION 31][v31] (STABLE)
+
+  + July 2018 Refresh.
+  + Source data from July 6, 2018.
+  + Formats Available:
+    + Textfiles ONLY
+
 #### [VERSION 29][v29] (STABLE)
 
   + November 2015 Refresh (Update 3)
@@ -143,6 +150,7 @@
 [v26]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v26
 [v28]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v28
 [v29]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v29
+[v31]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v31
 [gh_stable]: https://github.com/pffy/data-mcdonalds-nutrition-facts/releases/latest
 
 [web_sqlite]: https://sqlite.org/
