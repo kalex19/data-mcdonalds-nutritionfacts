@@ -2,7 +2,7 @@
 
   + Free, libre and open source data set describing McDonald's Nutrition Facts.
   + Please use the [latest stable release][gh_stable] for research.
-  + This data is used in many apps, platforms and popular search engines. No idea why.
+  + This data is used in many apps, platforms and popular search engines. (No idea why.)
 
 ### PROJECT SCOPE
 
@@ -11,7 +11,7 @@
 
 # DATA FORMATS
 
-#### [VERSION 31][v31] (STABLE)
+#### [VERSION 31][v31] (UNSTABLE)
 
   + July 2018 Refresh.
   + Source data from July 6, 2018.
