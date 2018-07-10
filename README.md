@@ -103,12 +103,7 @@
 + Data from June 2014.
 + 393 menu items processed.
 
-
-### POSSIBLE FORMATS
-
-  + Oracle, MariaDB, SQLite, SQL Server
-
-### MCDONALDS MENU STRUCTURE
+### MCDONALDS "OBJECT" STRUCTURE
 
   + McDonald's is a quick service restaurant concept designed to provide a fast,
   convenient and rewarding guest experience.
@@ -120,17 +115,10 @@
 
 ## FORMATS
 
-#### Android XML
-  + Provides a safe, portable data format for Android apps.
-  + Does not require special permissions for read access.
-
 #### JSON
   + Stable, serialized data transport.
   + JSON: [JavaScript Object Notation][web_json].
   + Very portable and processed by most modern languages.
-
-#### SQLITE
-  + Flexible, self-containted, serverless, zero-config, transactional [SQL database engine][web_sqlite].
 
 #### TEXTFILES
   + Most compatible format.
@@ -145,6 +133,16 @@
   + You can also import the spreadsheets into [Zoho Docs Spreadsheets][z_sheets].
   + Open XLSX in [Microsoft Excel][ms_excel].
   + Open ODS in [LibreOffice][web_libre].
+
+
+## Formats No Longer Supported
+
+#### SQLITE
+  + Flexible, self-containted, serverless, zero-config, transactional [SQL database engine][web_sqlite].  
+
+#### Android XML
+  + Provides a safe, portable data format for Android apps.
+  + Does not require special permissions for read access.
 
 
 ## REFERENCE
