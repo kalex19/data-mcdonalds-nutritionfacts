@@ -155,28 +155,29 @@
 
 **This project is neither endorsed by nor affliated with any McDonald's®,  McDonald's® stores, McDonald's Corporation, McDonald's franchisees or any other affliated brands or entities. Nutrition information is subject to change without prior notice. Please contact McDonald's® for the latest information.**
 
-[potato_storepage]: https://github.com/pffy/android-app-mcdonalds-nutritionfacts/releases/latest
 
-[v3]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v3
-[v23]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v23
-[v26]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v26
-[v28]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v28
-[v29]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v29
-[v31]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v31
-[gh_stable]: https://github.com/pffy/data-mcdonalds-nutrition-facts/releases/latest
 
-[web_sqlite]: https://sqlite.org/
 [g_sheets]: https://www.google.com/sheets/about/index.html
 [gh_docs]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/master/docs
 [gh_json]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/master/json
 [gh_sql]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/master/sql
+[gh_stable]: https://github.com/pffy/data-mcdonalds-nutrition-facts/releases/latest
 [gh_textfiles]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/master/textfiles
 [gh_workbooks]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/master/workbooks
 [gh_xml]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/master/xml
 [markdownstore]: https://chrome.google.com/webstore/detail/markdowntablemaker/cofkbgfmijanlcdooemafafokhhaeold
 [ms_excel]: https://products.office.com/en-us/excel
+[potato_storepage]: https://github.com/pffy/android-app-mcdonalds-nutritionfacts/releases/latest
+[v23]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v23
+[v26]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v26
+[v28]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v28
+[v29]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v29
+[v31]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v31
+[v35]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v35
+[v3]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v3
 [web_json]: http://www.json.org/
 [web_libre]: https://www.libreoffice.org/download/libreoffice-fresh/
 [web_mcdpdf]: http://nutrition.mcdonalds.com/getnutrition/nutritionfacts.pdf
+[web_sqlite]: https://sqlite.org/
 [wiki_etl]: https://en.wikipedia.org/wiki/Extract,_transform,_load
 [z_sheets]: https://www.zoho.com/docs/sheet.html
