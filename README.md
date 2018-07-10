@@ -11,14 +11,24 @@
 
 # DATA FORMATS
 
+## [VERSION 35][v35] (STABLE)
+
+  + July 2018 Refresh.
+  + Source data from McDonalds, released on July 6, 2018.
+  + Formats Available:
+    + Textfiles: CSV, TXT
+    + Workbooks: ODS, XLSX
+    
+    
 #### [VERSION 31][v31] (UNSTABLE)
 
   + July 2018 Refresh.
   + Source data from July 6, 2018.
   + Formats Available:
-    + Textfiles
-    + Workbooks
-    + PDFs (static documents)
+    + Textfiles (preview)
+    + Workbooks (preview)
+    + PDFs (static documents for preview)
+    
 
 #### [VERSION 29][v29] (STABLE)
 
