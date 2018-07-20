@@ -145,10 +145,6 @@
   + Does not require special permissions for read access.
 
 
-## REFERENCE
-
-+ [McDonald's USA Nutrition Facts for Popular Menu Items][web_mcdpdf]
-
 ## DISCLAIMER
 
 **This project is neither endorsed by nor affliated with any McDonald's®,  McDonald's® stores, McDonald's Corporation, McDonald's franchisees or any other affliated brands or entities. Nutrition information is subject to change without prior notice. Please contact McDonald's® for the latest information.**
@@ -175,7 +171,6 @@
 [v3]: https://github.com/pffy/data-mcdonalds-nutrition-facts/tree/v3
 [web_json]: http://www.json.org/
 [web_libre]: https://www.libreoffice.org/download/libreoffice-fresh/
-[web_mcdpdf]: http://nutrition.mcdonalds.com/getnutrition/nutritionfacts.pdf
 [web_sqlite]: https://sqlite.org/
 [wiki_etl]: https://en.wikipedia.org/wiki/Extract,_transform,_load
 [z_sheets]: https://www.zoho.com/docs/sheet.html
