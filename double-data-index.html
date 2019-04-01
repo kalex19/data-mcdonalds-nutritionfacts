@@ -1,0 +1,661 @@
+<h1> Double DataSet</h1>
+
+<h2>DataSet 1: McDonalnd's Nutrition</h2>
+
+<p>This dataset can be found in the textfiles in data-mcdonalds-nutrition</p>
+
+<h2>DataSet 2: Customer Order</h2>
+
+<p>This dataset can be found below.</p>
+
+<script>
+  customerOder = [
+  {
+  name: "Abigail"
+  orderNumber: 1
+  orderCount: 1
+  totalPrice: 1.08
+  order: [
+  {
+    item: Coke
+    size: L
+    calories: 290
+  }
+  ]
+  calorieCountTotal: 290
+},
+  {
+  name: "Barclay"
+  orderNumber: 2
+  orderCount: 3
+  totalPrice: 4.31
+  order: [
+  {
+    item: Coke
+    size: L
+    calories: 290
+  },
+  {
+    item: Egg McMuffin
+    calories: 300
+  },
+  {
+    item: Hashbrown
+    calories: 150
+  }
+  ]
+  calorieCountTotal: 740
+  },
+  {
+  name: "Calder"
+  orderNumber: 3
+  orderCount: 2
+  totalPrice: 2.15
+  order: [
+  {
+    item: Sprite
+    size: M
+    calories: 210
+  },
+  {
+    item: Diet Coke 
+    size: M
+    calories: 0
+  }
+  ]
+  calorieCountTotal: 210
+  },
+  {
+  name: "Daker" 
+  orderNumber: 4
+  orderCount: 2
+  totalPrice: 2.15
+  order: [
+  {
+    item: Hashbrown
+    calories: 150
+  },
+  {
+    item: Coke
+    size: S
+    calories: 110
+  }
+  ]
+  calorieCountTotal: 260
+  },
+  {
+  name: "Edeline" 
+  orderNumber: 5
+  orderCount: 1
+  totalPrice: 1.08
+  order: [
+  {
+    item: Sausage McGriddle
+    calories: 430
+  }
+  ]
+  calorieCountTotal: 430
+  },
+  {
+  name: "Fadi" 
+  orderNumber: 6
+  orderCount: 5
+  totalPrice: 7.01
+  order: [
+  {
+    item: Coke
+    size: L
+    calories: 290
+  },
+  {
+    item: Hashbrown
+    calories: 150
+  },
+  {
+    item: Hashbrown
+    calories: 150
+  },
+  {
+    item: Egg White Delight
+    calories: 280
+  },
+  {
+    item: Egg McMuffin
+    calories: 300
+  }
+  ]
+  calorieCountTotal: 1170
+  },
+  {
+  name: "Galaxy"
+  orderNumber: 7
+  orderCount: 4
+  totalPrice: 5.39
+  order: [
+  {
+    item: Fanta
+    size: S
+    calories: 130
+  },
+  {
+    item: Iced Coffee
+    size: L
+    calories: 260
+  },
+  {
+    item: Hashbrown
+    calories: 150
+  },
+  {
+    item: Hotcakes
+    calories: 600
+  }
+  ]
+  calorieCountTotal: 1140
+  },
+  {
+  name: "Hallan"
+  orderNumber: 8
+  orderCount: 3
+  totalPrice: 4.31
+  order: [
+  {
+    item: Coke
+    size: L
+    calories: 290
+  },
+  {
+    item: Sausage Burrito
+    calories: 300
+  },
+  {
+    item: Sausage Burrito
+    calories: 300
+  }
+  ]
+  calorieCountTotal: 890
+  },
+  {
+  name: "Gabe"
+  orderNumber: 9
+  orderCount: 3
+  totalPrice: 4.31
+  order: [
+  {
+    item: Sprite
+    size: M
+    calories: 210
+  },
+  {
+    item: Hashbrown
+    calories: 150
+  },
+  {
+    item: Bacon Egg and Cheese Biscuit
+    calories: 480
+  }
+  ]
+  calorieCountTotal: 840
+  },
+  {
+  name: "Ian" 
+  orderNumber: 10
+  orderCount: 3
+  totalPrice: 4.31
+  order: [
+  {
+    item: Diet Dr Pepper
+    size: M
+    calories: 0
+  },
+  {
+    item: Sausage Burrito
+    calories: 300
+  },
+  {
+    item: Sausage Burrito
+    calories: 300
+  }
+  ]
+  calorieCountTotal: 600
+  },
+  {
+  name: "Jack" 
+  orderNumber: 11
+  orderCount: 2
+  totalPrice: 2.15
+  order: [
+  {
+    item: Oatmeal
+    calories: 310
+  }, 
+  {
+    item: Sausage McMuffin
+    calories: 400
+  }
+  ]
+  calorieCountTotal: 710
+  },
+  {
+  name: "Jada" 
+  orderNumber: 12
+  orderCount: 1
+  totalPrice: 1.08
+  order: [
+  {
+    item: Iced Coffee
+    size: L
+    calories: 290
+  }
+  ]
+  calorieCountTotal: 290
+  },
+  {
+  name: "Kolby" 
+  orderNumber: 13
+  orderCount: 6
+  totalPrice: 13.41
+  order: [
+  {
+    item: Mocha Caramel
+    size: M
+    calories: 380
+  },
+  {
+    item: Hot Chocolate
+    size: L
+    calories: 540
+  },
+  {
+    item: Hashbrown
+    calories: 150
+  },
+   {
+    item: Hashbrown
+    calories: 150
+  },
+  {
+    item: Big Breakfast
+    calories: 750
+  },
+  {
+    item: Spam Side Order
+    calories: 190
+  }
+  ]
+  calorieCountTotal:
+  },
+  {
+  name: "Laik"
+  orderNumber: 14
+  orderCount: 3
+  totalPrice: 4.31
+  order: [
+  {
+    item: Cappuccino
+    size: S
+    calories: 120
+  },
+  {
+    item: Mocha Carmel
+    size: L
+    calories: 460
+  },
+  {
+    item: Latte
+    size: S
+    calories: 140
+  }
+  ]
+  calorieCountTotal: 720
+  },
+  {
+  name: "Luke"
+  orderNumber: 15
+  orderCount: 2
+  totalPrice: 2.15
+  order: [
+  {
+    item: Sweet Tea
+    size: S
+    calories: 170
+  },
+  {
+    item: Hashbrown
+    calories: 150
+  }
+  ]
+  calorieCountTotal: 320
+  },
+  {
+  name: "Maddy"
+  orderNumber: 16
+  orderCount: 7
+  totalPrice: 18.91
+  order: [
+  {
+    item: Coffee
+    size: S
+    calories: 0
+  },
+  {
+    item: Latte
+    size: M
+    calories: 190
+  },
+  {
+    item: Grits
+    calories: 140
+  },
+  {
+    item: Fruit n Yogurt Parfait
+    calories: 150
+  },
+  {
+    item: Fruit n Yogurt Parfait
+    calories: 150
+  },
+  {
+    item: McGriddles Spam
+    calories: 450
+  },
+  {
+    item: Steak and Egg Biscuit
+    calories: 480
+  }
+  ]
+  calorieCountTotal: 1560
+  },
+  {
+  name: "Macall"
+  orderNumber: 17
+  orderCount: 2
+  totalPrice: 2.15
+  order: [
+  {
+    item: Apple Cinnamon Muffin
+    calories: 300
+  },
+  {
+    item: Coke
+    size: L
+    calories: 290
+  }
+  ]
+  calorieCountTotal: 590
+  },
+  {
+  name: "Nala"
+  orderNumber: 18
+  orderCount: 3
+  totalPrice: 4.31
+  order: [
+  {
+    item: Big Breakfast
+    calories: 750
+  },
+  {
+    item: Egg McMuffin
+    calories: 300
+  },
+  {
+    item: Sausage McGriddles
+    calories: 430
+  }
+  ]
+  calorieCountTotal: 1480
+  },
+  {
+  name: "Oki"
+  orderNumber: 19 
+  orderCount: 4
+  totalPrice: 5.39
+  order: [
+  {
+    item: Big Breakfast with Hotcakes
+    calories: 1350
+  },
+  {
+    item: Cinnamon Melts
+    calories: 460
+  },
+  {
+    item: Coffee
+    size: S
+    calories: 0
+  },
+  {
+    item: Sausage Burrito
+    calories: 300
+  }
+  ]
+  calorieCountTotal: 2110
+  },
+  {
+  name: "Oscar"
+  orderNumber: 20
+  orderCount: 3
+  totalPrice: 4.31
+  order: [
+  {
+    item: Fanta
+    size: L
+    calories: 130
+  },
+  {
+    item: Hashbrown
+    calories: 150
+  },
+  {
+    item: Egg McMuffin
+    calories: 300
+  }
+  ]
+  calorieCountTotal: 580
+  },
+  {
+  name: "Palmer"
+  orderNumber: 21
+  orderCount: 1
+  totalPrice: 1.08
+  order: [
+  {
+    item: Baked Hot Apple Pie
+    calories: 240
+  }
+  ]
+  calorieCountTotal: 240
+  },
+  {
+  name: "Quency"
+  orderNumber: 22
+  orderCount: 1
+  totalPrice: 1.08
+  order: [
+  {
+    item: Coke
+    size: L
+    calories: 290
+  }
+  ]
+  calorieCountTotal:
+  },
+  {
+  name: "Rob" 
+  orderNumber: 23
+  orderCount: 2
+  totalPrice: 2.15
+  order: [
+  {
+    item: Coffee
+    size: S
+    calories: 0
+  },
+  {
+    item: Coffee
+    size: S
+    calories: 0
+  }
+  ]
+  calorieCountTotal: 0
+  },
+  {
+  name: "Sabin" 
+  orderNumber: 24
+  orderCount: 3
+  totalPrice: 4.31
+  order: [
+  {
+    item: Hotcakes and Sausage
+    calories: 790
+  }
+  {
+    item: Diet Coke
+    size: L
+    calories: 0
+  }
+  {
+    item: Hashbrown
+    calories: 150
+  }
+  ]
+  calorieCountTotal: 940
+  },
+  {
+  name: "Sally" 
+  orderNumber: 25
+  orderCount: 3
+  totalPrice: 4.31
+  order: [
+  {
+    item: Sausage Burrito
+    calories: 300
+  },
+  {
+    item: Sausage Burrito
+    calories: 300
+  },
+  {
+    item: Sausage Burrito
+    calories: 300
+  }
+  ]
+  calorieCountTotal: 900
+  },
+  {
+  name: "Taj"
+  orderNumber: 26
+  orderCount: 2
+  totalPrice: 2.15
+  order: [
+  {
+    item: Fat Free Chocolate Milk
+    calories: 130
+  },
+  {
+    item: Cranberry Orange Muffin
+    calories: 380
+  }
+  ]
+  calorieCountTotal: 510
+  },
+  {
+  name: "Unoku" 
+  orderNumber: 27
+  orderCount: 2
+  totalPrice: 2.15
+  order: [
+  {
+    item: Egg White Delight
+    calories: 280
+  },
+  {
+    item: Oatmeal
+    calories: 310
+  }
+  ]
+  calorieCountTotal: 590
+  },
+  {
+  name: "Vee"
+  orderNumber: 28
+  orderCount: 8
+  totalPrice: 22.47
+  order: [
+  {
+    item: Fruit and Yogurt Parfait
+    calories: 150
+  },
+  {
+    item: Hashbrown
+    calories: 150
+  },
+  {
+    item: Hashbrown
+    calories: 150
+  },
+  {
+    item: Sausage McMuffin
+    calories: 400
+  },
+  {
+    item: Coke
+    size: L
+    calories: 290
+  },
+  {
+    item: Bacon Biscuit
+    calories: 340
+  },
+  {
+    item: Sprite Zero
+    size: L
+    calories: 5
+  },
+  {
+    item: Iced Coffee
+    size: L
+    calories: 260
+  }
+  ]
+  calorieCountTotal: 1745
+  },
+  {
+  name: "Young"
+  orderNumber: 29
+  orderCount: 3
+  totalPrice: 4.31
+  order: [
+  {
+    item: Orange Crush
+    size: S
+    calories: 160
+  },
+  {
+    item: Hot Tea
+    size: S
+    calories: 0
+  },
+  {
+    item: Peaches and Cream Pie
+    calories: 300
+  }
+  ]
+  calorieCountTotal: 460
+  },
+  {
+  name: "Zain" 
+  orderNumber: 30
+  orderCount: 1
+  totalPrice: 1.08
+  order: [
+  {
+    item: Coke
+    size: L
+    calories: 290
+  }
+  ]
+  calorieCountTotal: 290
+  },
+  ]
+</script>
